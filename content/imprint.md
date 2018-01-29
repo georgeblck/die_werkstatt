@@ -3,8 +3,8 @@ impressum
 
 Angaben gemäß § 5 TMG
 
-Nikolai Huckle  
-Georg-Schwarz-Straße 138  
+Johannes Huckle
+Georg-Schwarz-Straße 138
 04179 Leipzig
 
 **Vertreten durch:**
