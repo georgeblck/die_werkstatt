@@ -6,12 +6,12 @@
   Name = "leipziger westen"
   URL = "/gowest"
 
-[3]
+[2]
   Name = "neuigkeiten"
   URL = "/post"
 
-[2]
-  Name = "über"
+[1]
+  Name = "zur werkstatt"
   URL = "/about"
   
 [4]
