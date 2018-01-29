@@ -1,7 +1,7 @@
 theme = "hyde-y"
 baseurl = "https://statistikwerkstatt.org"
 languageCode = "de-DE"
-title = "Statistik Leipzig"
+title = "StatistikWerkstatt Leipzig"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 builddrafts = true
 canonifyurls = true
@@ -41,7 +41,7 @@ relativeurls = true
     defaultDescription = "Your default page description"
     defaultKeywords = "your,default,page,keywords"
 
-    # Sidebar position
+    #Sidebar position
     # false, true, "left", "right"
     sidebar = "left"
 

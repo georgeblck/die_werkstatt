@@ -6,14 +6,18 @@
   Name = "leipziger westen"
   URL = "/gowest"
 
-[2]
+[3]
   Name = "neuigkeiten"
   URL = "/post"
 
-[1]
-  Name = "zur werkstatt"
+[2]
+  Name = "über"
   URL = "/about"
   
 [4]
   Name = "kosten"
   URL = "/money"
+
+[1]
+  Name = "leistungen"
+  URL = "/info"
