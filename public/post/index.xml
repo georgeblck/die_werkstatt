@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Statistik Leipzig</title>
-    <link>/post/</link>
+    <link>https://statistikwerkstatt.org/post/</link>
     <description>Recent content in Posts on Statistik Leipzig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
@@ -10,35 +10,35 @@
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
     <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statistikwerkstatt.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eine gerechtere Flüchtlingsverteilung für Europa</title>
-      <link>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
+      <link>https://statistikwerkstatt.org/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
       <description>Im September 2015 schlug die European Commison vor 120’000 Flüchtlinge von Griechenland, Italien &amp;amp; Ungarn auf alle anderen europäischen Länder umzuverteilen. Dies sollte mittels eines verbindlichen, fairen Verteilungsschlüssel passieren, welcher mit den folgenden Variablen und Gewichten berechnet wird
  die Bevölkerungsanzahl (40% positives Gewicht) das BIP (40% positives Gewicht) die durchschnittliche Anzahl an bisherigen Asylanträgen (10% negatives Gewicht) die Arbeitslosigkeitsrate (10% negatives Gewicht.)  Ein positives Gewicht bedeutet, dass z.B. Länder mit mehr Einwohnern auch mehr Flüchtlinge aufnehmen sollten.</description>
     </item>
     
     <item>
       <title>Es geht wieder los</title>
-      <link>/2018/01/12/es-geht-wieder-los/</link>
+      <link>https://statistikwerkstatt.org/2018/01/12/es-geht-wieder-los/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/12/es-geht-wieder-los/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/12/es-geht-wieder-los/</guid>
       <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig.
 Melde dich und mach ein Termin aus.</description>
     </item>
     
     <item>
       <title>Shoutout - Am Strand Magazin</title>
-      <link>/2018/01/02/shoutout---am-strand-magazin/</link>
+      <link>https://statistikwerkstatt.org/2018/01/02/shoutout---am-strand-magazin/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/02/shoutout---am-strand-magazin/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/02/shoutout---am-strand-magazin/</guid>
       <description>Unsere Freunde aus der ArchitekturApotheke haben im Dezember 2017 ihr zweites Magazin veröffentlicht. Pressestimmen gab es unter anderem von Katja Kullmann. Ein Auszug aus dem Editorial:
 Diese Ausgabe bringt Beiträge zusammen, die ein diagnostisches und spekulatives Interesse verfolgen. In den Essays und künstlerischen Beiträgen wird zur Diskussion gestellt, was die digitalisierte Wirklichkeit von jener Welt unterscheidet, die wir vor allem aus den Büchern kannten. Andererseits soll die Analyse spezifischer Phänomene zeigen, was das Leben mit den Wolken konkret bedeuten kann und welche neuen Möglichkeiten es bietet, ob politisch, sozial oder visuell.</description>
     </item>
