@@ -17,3 +17,7 @@
 [4]
   Name = "kosten"
   URL = "/money"
+
+[1]
+  Name = "leistungen"
+  URL = "/info"
