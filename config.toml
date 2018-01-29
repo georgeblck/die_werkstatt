@@ -1,5 +1,5 @@
 theme = "hyde-y"
-baseurl = "http://statistikwerkstatt.org"
+baseurl = "https://statistikwerkstatt.org"
 languageCode = "de-DE"
 title = "Statistik Leipzig"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
