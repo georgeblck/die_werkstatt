@@ -1,11 +1,17 @@
+---
+title: []
+author: NH
+date: '2018-01-17'
+categories: []
+tags: []
+---
+
 # Willkommen in der 
 
 <p>
-<span title="Klick mich">
-<a target="_blank" href="https://www.statistikwerkstatt.org/info">
+<a target="_blank" href="https://statistikwerkstatt.org/info">
 <img src=/sw_logo_text_big.png alt="Logo_Big" style="width: 1000px;"/>
 </a>
-</span>
 </p>
 
 ```{r leutzsch-map, echo=FALSE}
@@ -20,7 +26,7 @@ statIcon <- makeIcon(
 m <- leaflet(width = "100%", height = "500px", padding = 2) %>%
   setView(lat = 51.347738, lng = 12.314049, zoom = 15) %>%
    #setView(lat = 51.337356, lng = 12.346936, zoom = 13) %>%
-  addMarkers(lng=12.314049, lat=51.347738, icon = statIcon, popup='<a href="https://www.statistikwerkstatt.org/info">Klick mich</a>') %>%
+  addMarkers(lng=12.314049, lat=51.347738, icon = statIcon) %>%
   addProviderTiles(providers$Stamen.Watercolor,  options = providerTileOptions(opacity = 0.60))%>%
   addProviderTiles(providers$Hydda.RoadsAndLabels)
 
