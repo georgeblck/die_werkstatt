@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistik Leipzig</title>
-    <link>/</link>
-    <description>Recent content on Statistik Leipzig</description>
+    <title>StatistikWerkstatt Leipzig</title>
+    <link>https://statistikwerkstatt.org/</link>
+    <description>Recent content on StatistikWerkstatt Leipzig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
     <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statistikwerkstatt.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eine gerechtere Flüchtlingsverteilung für Europa</title>
-      <link>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
+      <link>https://statistikwerkstatt.org/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
       <description>Im September 2015 schlug die European Commison vor 120’000 Flüchtlinge von Griechenland, Italien &amp;amp; Ungarn auf alle anderen europäischen Länder umzuverteilen. Dies sollte mittels eines verbindlichen, fairen Verteilungsschlüssel passieren, welcher mit den folgenden Variablen und Gewichten berechnet wird
  die Bevölkerungsanzahl (40% positives Gewicht) das BIP (40% positives Gewicht) die durchschnittliche Anzahl an bisherigen Asylanträgen (10% negatives Gewicht) die Arbeitslosigkeitsrate (10% negatives Gewicht.)  Ein positives Gewicht bedeutet, dass z.B. Länder mit mehr Einwohnern auch mehr Flüchtlinge aufnehmen sollten.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://statistikwerkstatt.org/about/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/about/</guid>
+      <guid>https://statistikwerkstatt.org/about/</guid>
       <description>Motivation Während meines Studiums habe ich sowohl als Tutor Statistikkurse &amp;amp; Nachhilfe angeboten als auch im erweiterten Freundeskreis bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.
 Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten in dem gemeinsam mit Statistik gearbeitet werden kann - die StatistikWerkstatt ist das Resultat dieses Wunsches. Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben kann ich sagen, dass es mir immer noch sehr sehr viel Spaß macht.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/gowest/</link>
+      <link>https://statistikwerkstatt.org/gowest/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/gowest/</guid>
+      <guid>https://statistikwerkstatt.org/gowest/</guid>
       <description>         Schöne dinge in Leutzsch und Lindenau  {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[[51.338819,51.347104,51.339062,51.338806],[12.323817,12.314775,12.327141,12.327017],null,null,null,{&#34;clickable&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},[&#34;die FahrradSelbstHilfeWerkstatt&#34;,&#34;S1 Vinyl &amp; Kaffee&#34;,&#34;die schwarzwurzel&#34;,&#34;Schwarz Druck Leipzig&#34;],null,null,null,[&#34;Fahrradreparatur&#34;,&#34;Kaffee&#34;,&#34;Shopping&#34;,&#34;Druckerei&#34;],null,null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[51.347738,12.314049,{&#34;iconUrl&#34;:{&#34;data&#34;:&#34;/sw_logo.svg&#34;,&#34;index&#34;:0},&#34;iconWidth&#34;:38,&#34;iconHeight&#34;:75,&#34;iconAnchorX&#34;:0,&#34;iconAnchorY&#34;:0},null,null,{&#34;clickable&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;StatistikWerkstatt Leipzig&#34;,null,null,null,null,null,null]},{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Stamen.Watercolor&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;zIndex&#34;:null,&#34;unloadInvisibleTiles&#34;:null,&#34;updateWhenIdle&#34;:null,&#34;detectRetina&#34;:false,&#34;reuseTiles&#34;:false,&#34;opacity&#34;:0.65}]},{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Hydda.RoadsAndLabels&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;zIndex&#34;:null,&#34;unloadInvisibleTiles&#34;:null,&#34;updateWhenIdle&#34;:null,&#34;detectRetina&#34;:false,&#34;reuseTiles&#34;:false}]}],&#34;limits&#34;:{&#34;lat&#34;:[51.338806,51.347738],&#34;lng&#34;:[12.314049,12.327141]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}  Für Fahrräder und Reparaturen    Für Café und Vinyl    Für Nahrung    Für Druckerei    Für Impulse     </description>
     </item>
     
     <item>
       <title>Es geht wieder los</title>
-      <link>/2018/01/12/es-geht-wieder-los/</link>
+      <link>https://statistikwerkstatt.org/2018/01/12/es-geht-wieder-los/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/12/es-geht-wieder-los/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/12/es-geht-wieder-los/</guid>
       <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig.
 Melde dich und mach ein Termin aus.</description>
     </item>
     
     <item>
       <title>Shoutout - Am Strand Magazin</title>
-      <link>/2018/01/02/shoutout---am-strand-magazin/</link>
+      <link>https://statistikwerkstatt.org/2018/01/02/shoutout---am-strand-magazin/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/02/shoutout---am-strand-magazin/</guid>
+      <guid>https://statistikwerkstatt.org/2018/01/02/shoutout---am-strand-magazin/</guid>
       <description>Unsere Freunde aus der ArchitekturApotheke haben im Dezember 2017 ihr zweites Magazin veröffentlicht. Pressestimmen gab es unter anderem von Katja Kullmann. Ein Auszug aus dem Editorial:
 Diese Ausgabe bringt Beiträge zusammen, die ein diagnostisches und spekulatives Interesse verfolgen. In den Essays und künstlerischen Beiträgen wird zur Diskussion gestellt, was die digitalisierte Wirklichkeit von jener Welt unterscheidet, die wir vor allem aus den Büchern kannten. Andererseits soll die Analyse spezifischer Phänomene zeigen, was das Leben mit den Wolken konkret bedeuten kann und welche neuen Möglichkeiten es bietet, ob politisch, sozial oder visuell.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/imprint/</link>
+      <link>https://statistikwerkstatt.org/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/imprint/</guid>
+      <guid>https://statistikwerkstatt.org/imprint/</guid>
       <description>impressum Angaben gemäß § 5 TMG
 Johannes Huckle Georg-Schwarz-Straße 138 04179 Leipzig
 Vertreten durch: Nikolai Huckle
@@ -83,28 +83,28 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
     
     <item>
       <title></title>
-      <link>/links/</link>
+      <link>https://statistikwerkstatt.org/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/links/</guid>
+      <guid>https://statistikwerkstatt.org/links/</guid>
       <description>Nützliche links für die Arbeit mit Daten Buchempfehlungen  Für Beginner: Die Klassiker von Andy Field für die Arbeit mit SPSS oder R.     Für Psychologen bzw. Ökologen     Für Wirtschaftswissenschaftler: Die Einführung von Wooldridge sowie eine sehr gute Anleitung für Panel-Analysen mit Stata     Für Fortgeschrittene: Eine moderne Einführung in statistische Methoden (mit R) und der anspruchsvollere, große Bruder      Die interaktive Methodenberatung der Universität Zürich Falls die Frage ist: Welchen statistischen Test sollte ich benutzen?</description>
     </item>
     
     <item>
       <title></title>
-      <link>/skype/</link>
+      <link>https://statistikwerkstatt.org/skype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/skype/</guid>
+      <guid>https://statistikwerkstatt.org/skype/</guid>
       <description>ssss</description>
     </item>
     
     <item>
       <title>Kosten</title>
-      <link>/money/</link>
+      <link>https://statistikwerkstatt.org/money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/money/</guid>
+      <guid>https://statistikwerkstatt.org/money/</guid>
       <description>Eine erste Beratung zu deinen Problemen ist immer kostenfrei. Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst sind die Stundenpreise (à 60 Minuten) wie folgt:
  Haus- oder Bachelorarbeit: 25€ Master- oder Doktorarbeit: 30€  Der Preis für Nachhilfestunden hängt sowohl vom Schwierigkeitsgrad als auch der Gruppengröße ab und wird deswegen einzeln ausgehandelt.</description>
     </item>
