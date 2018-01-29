@@ -9,7 +9,7 @@ tags: []
 # Willkommen in der 
 
 <p>
-<a target="_blank" href="https://statistikwerkstatt.org/info">
+<a target="_blank" href="https://statistikwerkstatt.org">
 <img src=/sw_logo_text_big.png alt="Logo_Big" style="width: 1000px;"/>
 </a>
 </p>

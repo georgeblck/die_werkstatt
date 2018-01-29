@@ -1,7 +1,7 @@
 theme = "hyde-y"
 baseurl = "https://statistikwerkstatt.org"
 languageCode = "de-DE"
-title = "StatistikWerkstatt Leipzig"
+title = "Statistik Leipzig"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 builddrafts = true
 canonifyurls = true

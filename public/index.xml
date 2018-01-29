@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>StatistikWerkstatt Leipzig</title>
+    <title>Statistik Leipzig</title>
     <link>https://statistikwerkstatt.org/</link>
-    <description>Recent content on StatistikWerkstatt Leipzig</description>
+    <description>Recent content on Statistik Leipzig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
@@ -69,9 +69,7 @@ Diese Ausgabe bringt Beiträge zusammen, die ein diagnostisches und spekulatives
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>https://statistikwerkstatt.org/imprint/</guid>
       <description>impressum Angaben gemäß § 5 TMG
-Nikolai Huckle
-Georg-Schwarz-Straße 138
-04179 Leipzig
+Nikolai Huckle Georg-Schwarz-Straße 138 04179 Leipzig
 Vertreten durch: Nikolai Huckle
 Kontakt: Telefon: 0177-2833877
 E-Mail: statistikwerkstatt@posteo.de
@@ -85,31 +83,11 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
     
     <item>
       <title></title>
-      <link>https://statistikwerkstatt.org/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>https://statistikwerkstatt.org/info/</guid>
-      <description>Was biete ich an Beratung für wissenschaftliche Arbeiten Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit? Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
-Schick mir dazu am besten eine Mail in der du mir die wichtigsten Informationen deiner Arbeit erklärst (Studiengang, Software, Daten, Abgabetermin).
-Statistik-Nachhilfe Benötigst du (und deine Freunde) Hilfe für die Vorbereitung einer Prüfung im Bereich Statistik, das Lösen von Übungsblättern während des Semesters oder andere konkrete Unterstützung gebe ich dir gerne Nachhilfe.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://statistikwerkstatt.org/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>https://statistikwerkstatt.org/links/</guid>
       <description>Nützliche links für die Arbeit mit Daten Buchempfehlungen  Für Beginner: Die Klassiker von Andy Field für die Arbeit mit SPSS oder R.     Für Psychologen bzw. Ökologen     Für Wirtschaftswissenschaftler: Die Einführung von Wooldridge sowie eine sehr gute Anleitung für Panel-Analysen mit Stata     Für Fortgeschrittene: Eine moderne Einführung in statistische Methoden (mit R) und der anspruchsvollere, große Bruder      Die interaktive Methodenberatung der Universität Zürich Falls die Frage ist: Welchen statistischen Test sollte ich benutzen?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://statistikwerkstatt.org/skype/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>https://statistikwerkstatt.org/skype/</guid>
-      <description>ssss</description>
     </item>
     
     <item>
