@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistik Leipzig</title>
+    <link>/</link>
+    <description>Recent content on Statistik Leipzig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
+    <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/about/</guid>
+      <description>Wieso Während meines Studiums habe ich sowohl als Tutor Statistikkurse &amp;amp; Nachhilfe angeboten als auch im erweiterten Freundeskreis bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.
+Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten in dem gemeinsam mit Statistik gearbeitet werden kann - die StatistikWerkstatt ist das Resultat dieses Wunsches. Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben kann ich sagen, dass es mir immer noch sehr sehr viel Spaß macht.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/west/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/west/</guid>
+      <description>         schöne dinge in leutzsch und lindenau  {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[[51.338819,51.347104,51.339062,51.338806],[12.323817,12.314775,12.327141,12.327017],{&#34;iconUrl&#34;:{&#34;data&#34;:&#34;http://leafletjs.com/examples/custom-icons/leaf-red.png&#34;,&#34;index&#34;:0},&#34;iconWidth&#34;:38,&#34;iconHeight&#34;:75,&#34;iconAnchorX&#34;:22,&#34;iconAnchorY&#34;:94,&#34;shadowUrl&#34;:{&#34;data&#34;:&#34;http://leafletjs.com/examples/custom-icons/leaf-shadow.png&#34;,&#34;index&#34;:0},&#34;shadowWidth&#34;:50,&#34;shadowHeight&#34;:44,&#34;shadowAnchorX&#34;:4,&#34;shadowAnchorY&#34;:62},null,null,{&#34;clickable&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},[&#34;FahrradSelbstHilfeWerkstatt&#34;,&#34;S1 Vinyl &amp; Kaffee&#34;,&#34;schwarzwurzel&#34;,&#34;Schwarz Druck Leipzig&#34;],null,null,null,[&#34;Fahrradreparatur&#34;,&#34;Kaffee&#34;,&#34;Essen&#34;,&#34;Druckerei&#34;],null,null]},{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Stamen.Watercolor&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;zIndex&#34;:null,&#34;unloadInvisibleTiles&#34;:null,&#34;updateWhenIdle&#34;:null,&#34;detectRetina&#34;:false,&#34;reuseTiles&#34;:false,&#34;opacity&#34;:0.65}]},{&#34;method&#34;:&#34;addProviderTiles&#34;,&#34;args&#34;:[&#34;Hydda.RoadsAndLabels&#34;,null,null,{&#34;errorTileUrl&#34;:&#34;&#34;,&#34;noWrap&#34;:false,&#34;zIndex&#34;:null,&#34;unloadInvisibleTiles&#34;:null,&#34;updateWhenIdle&#34;:null,&#34;detectRetina&#34;:false,&#34;reuseTiles&#34;:false}]}],&#34;limits&#34;:{&#34;lat&#34;:[51.338806,51.347104],&#34;lng&#34;:[12.314775,12.327141]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} Für Fahrräder und Reparaturen    Für Café und Vinyl    Für Nahrung    Für Druckerei    Für Impulse     </description>
+    </item>
+    
+    <item>
+      <title>Es geht wieder los</title>
+      <link>/2018/01/17/es-geht-wieder-los/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2018/01/17/es-geht-wieder-los/</guid>
+      <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig. Melde dich und mach ein Termin aus.</description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/2018/01/17/testing/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2018/01/17/testing/</guid>
+      <description>Recently, I have been following the development and release of Kyle Walker’s tidycensus package. I have been filled with amazement, delight, and well, perhaps another feeling…
+There should be a word for “the regret felt when an R 📦, which would have saved untold hours of your life, is released”… #rstats 🤔 https://t.co/2THN4MwedO — Mara Averick (@dataandme) May 31, 2017   But seriously, I have worked with US Census data a lot in the past and this package</description>
+    </item>
+    
+    <item>
+      <title>Es geht wieder los</title>
+      <link>/2018/01/12/es-geht-wieder-los/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2018/01/12/es-geht-wieder-los/</guid>
+      <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig. Melde dich und mach ein Termin aus.</description>
+    </item>
+    
+    <item>
+      <title>Shoutout - Am Strand Magazin</title>
+      <link>/2018/01/02/shoutout---am-strand-magazin/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2018/01/02/shoutout---am-strand-magazin/</guid>
+      <description>Für interessante Dinge gibt es hier den shit: </description>
+    </item>
+    
+    <item>
+      <title>Eine gerechte Flüchtlingsverteilung für Europa</title>
+      <link>/2017/10/10/eine-gerechte-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2017/10/10/eine-gerechte-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
+      <description>About this visualization In September 2015 the European Commission proposed a plan to relocate 120&amp;rsquo;000 refugees from Greece, Italy &amp;amp; Hungary to all European countries. This was supposed to be done by a mandatory distribution key using objective and quantifiable criteria, consisting of the following variables and weightings: &amp;gt; * the size of the population (40%, positive weight), &amp;gt; * the GDP (40%, positive weight), &amp;gt; * the average number of past asylum applications (10%, negative weight) and &amp;gt; * the unemployment rate (10%, negative weight).</description>
+    </item>
+    
+    <item>
+      <title>Shortcode Tests</title>
+      <link>/2016/12/29/shortcode-tests/</link>
+      <pubDate>Thu, 29 Dec 2016 13:39:24 -0500</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2016/12/29/shortcode-tests/</guid>
+      <description>Hello, Thanks for downloading and testing our my shortcode pack. Below will load all of the shortcodes and display the various options they have. If you like and enjoy these short codes, please post a link on your blog to GeekThis.net, I would really appreciate it.
+Installing New Shortcodes To install shortcodes, copy each HTML file relating to a shortcode you want and place it into the shortcode directory inside of Hugo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/imprint/</guid>
+      <description>impressum Angaben gemäß § 5 TMG
+Johannes Huckle Georg-Schwarz-Straße 138 04179 Leipzig
+Vertreten durch: Nikolai Huckle
+Kontakt: Telefon: 0177-2833877
+E-Mail: statistikwerkstatt@posteo.de
+Umsatzsteuer-ID:
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 232/234/02569
+Aufsichtsbehörde: Finanzamt Leipzig I
+Haftungsausschluss:
+Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/links/</guid>
+      <description>nützliche links für die arbeit mit statistik Buchempfehlungen  Für Beginner: Die Klassiker von Andy Field für die Arbeit mit SPSS oder R.     Für Psychologen bzw. Ökologen     Für Wirtschaftswissenschaftler: Die Einführung von Wooldridge sowie eine sehr gute Anleitung für Panel-Analysen mit Stata     Für Fortgeschrittene: Eine moderne Einführung in statistische Methoden (mit R) und der anspruchsvollere, große Bruder      Die interaktive Methodenberatung der Universität Zürich   Eine Übersichtstabelle vieler Zusammenhangsmaße</description>
+    </item>
+    
+  </channel>
+</rss>

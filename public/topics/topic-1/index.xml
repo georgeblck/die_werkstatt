@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic 1 on Statistics @ Home</title>
+    <link>/topics/topic-1/</link>
+    <description>Recent content in Topic 1 on Statistics @ Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>stats.at.home@gmail.com (Justin and Rachel Silverman)</managingEditor>
+    <webMaster>stats.at.home@gmail.com (Justin and Rachel Silverman)</webMaster>
+    <copyright>(c) 2017 Justin and Rachel Silverman</copyright>
+    <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing the Multinomial in the Simplex</title>
+      <link>/2017/09/14/visualizing-the-multinomial-in-the-simplex/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/09/14/visualizing-the-multinomial-in-the-simplex/</guid>
+      <description>Lately I have been working on figures for a manuscript. In this process I created a few visualizations that I thought might help others visualize the Multinomial distribution. I will focus on describing how counting processes introduce uncertainty into estimates of relative abundances and I will end with a discussion of how understanding the Multinomial has impacted my view of analyses of sequence count data (e.g., data from 16s studies of the microbiome, RNA-seq, and more).</description>
+    </item>
+    
+    <item>
+      <title>Does Gauss Love Me More in the Kitchen?</title>
+      <link>/2017/08/27/does-gauss-love-me-more-in-the-kitchen/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/08/27/does-gauss-love-me-more-in-the-kitchen/</guid>
+      <description>The Idea First things first, Gauss is our dog.
+Since I am able to work from home, my dog Gauss and I spend a lot of time together. As a result, I like to think I know why he does what he does. But of course I will never really know - though, it’s nice to think that I do. Both of us being a creatures of habit, we have fallen into a nice routine during the day - one where he sleeps the day away and comes to get me around 4pm for some outdoor training/playing.</description>
+    </item>
+    
+    <item>
+      <title>A New(?) Regression Clustering Algorithm</title>
+      <link>/2017/08/13/a-new-functional-clustering-algorithm/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/08/13/a-new-functional-clustering-algorithm/</guid>
+      <description>Motivation My Solution - Hybrid K-Means/Linear-Regression with Transformation Starting on Boring Simulated Data Now a more interesting simulated dataset More realistic, presense of observational noise Conclusions and future directions   Motivation I am a fan of the Stack Exchange forums. In particular, I like Cross Validated and Stack Overflow. An interesting question regarding clustering was posted recently. Essentially someone had the following dataset.
+plot(Retirees) Essentially the poster wanted a way of clustering the observations into the “lines” that are fairly easy to observe in the data.</description>
+    </item>
+    
+    <item>
+      <title>Building the ILR from the ALR Transform</title>
+      <link>/2017/08/10/building-the-ilr-from-the-alr-transform/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/08/10/building-the-ilr-from-the-alr-transform/</guid>
+      <description>Following up on a recent post on limitations of the ALR and Softmax transforms, I wanted to briefly show how we can derive an Isometric Log-Ratio transform from the Additive Log-Ratio (ALR) transform.
+The ILR transform is just an orthonormal basis in the simplex with respect to the Aitchison metric (which follows naturally from using log-ratios - I will probably have a post explaining this more in the future). We are going to use the Gram-Schmidt orthonomalization process to build an orthonormal basis given a set of vectors which are not orthonormal (the coordinates defined by our ALR transform).</description>
+    </item>
+    
+    <item>
+      <title>We can do better than the ALR or Softmax Transform</title>
+      <link>/2017/08/09/we-can-do-better-than-the-alr-or-softmax-transform/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/08/09/we-can-do-better-than-the-alr-or-softmax-transform/</guid>
+      <description>In multiple places in the Compositional Data Analysis literature (for example here and here) people refer to the Additive Log-Ratio transform (ALR) as “not preserving metric concepts”. But what exactly does this mean and how can we visualize this problem?
+Here I am going to briefly describe how this problem can be seen with the ALR transform and then show how the Isometric Log-Ratio (ILR) transform does not have this problem.</description>
+    </item>
+    
+    <item>
+      <title>Follow-up on Error Analysis</title>
+      <link>/2017/08/02/follow-up-on-error-analysis/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/08/02/follow-up-on-error-analysis/</guid>
+      <description>I wanted to write a quick post responding to a question that we received about our last post (Error Analysis Made Ridiculously Simple).
+ Can you give an example of how to generate an estimate of the error? It’s easy enough when measuring a table, as long as your meter stick is accurate: measure 1,000 times and make an inference. But in a setting where you don’t actually know the true outcome – let’s say you are trying to model household income – I’m not sure how to generate a reasonable guess of the size of the error.</description>
+    </item>
+    
+    <item>
+      <title>Error Analysis Made Ridiculously Simple</title>
+      <link>/2017/07/21/error-analysis-made-ridiculously-simple/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/07/21/error-analysis-made-ridiculously-simple/</guid>
+      <description>Introduction Example 1 - Adding two measurements Example 1a - Uniform Uncertainty and Max/Min Bounds Example 1b - Gaussian Uncertainty and Standard Deviation as Bounds  How to Use Simulation for Calculations Example 2 - Shipping bricks  Improving Back of the Envelope Calculations More Resources Code for Plotting   Introduction All measurements have uncertainty. This is not a subjective opinion but an objective fact that should never be ignored.</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Loading of Microfluidic Droplets</title>
+      <link>/2017/07/08/stochastic-loading-of-microfluidic-droplets/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/07/08/stochastic-loading-of-microfluidic-droplets/</guid>
+      <description>The Basic Model The First Step - Multinomial Focusing on our Question - Binomial Approximating the Binomial - Poisson  When is the Poisson approximation to the Binomial valid? Looking at Real Parameters Values Calculating the distribution of quantities in light of uncertainty in lab measurements Bivariate Distributions    Droplet-based microfluidics are emerging as a useful technology in various fields of biomedicine. Both droplet digital PCR and droplet based culture methods require that droplets are created with either a single DNA molecule or a single cell per droplet.</description>
+    </item>
+    
+    <item>
+      <title>A Post on Tournament Designs</title>
+      <link>/2017/07/01/a-post-on-tournament-designs/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/07/01/a-post-on-tournament-designs/</guid>
+      <description>The Problem When hosting our annual Matzah Hunt event, we wanted to come up with a cool and unusual way of picking teams. We decided that we wanted each participant to complete each puzzle only once and to complete each puzzle with a different partner. Here are the precise details of the problem:
+There are 12 participants, 6 puzzles and 6 (20-minute) rounds. Teams of 2 will attempt to solve each puzzle each round.</description>
+    </item>
+    
+    <item>
+      <title>Measure Theory Made Ridiculously Simple</title>
+      <link>/2017/06/26/measure-theory-made-ridiculously-simple/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/06/26/measure-theory-made-ridiculously-simple/</guid>
+      <description>During my first few years of medical school I became a big fan of the [Subject] Made Rediculously Simple book series (as in Clinical Microbiology Made Rediculously Simple). I found that the authors did a great job of simplifying the subject matter, sometimes to the point of absurdity, while getting the core concepts across in a memorable way. For some time now I have wished that similar tools were available for mathematics.</description>
+    </item>
+    
+    <item>
+      <title>Eternal Sunshine of the Endless Flight</title>
+      <link>/2017/06/12/eternal-sunshine-of-the-endless-flight/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/06/12/eternal-sunshine-of-the-endless-flight/</guid>
+      <description>I am sitting on a plane from Rome to Philadelphia, marveling at how quickly we can move around the globe. There is a 6 hour time-zone difference between Rome and Philadelphia. My flight took off at 11am in Rome and was set to arrive 9 hours and 45 minutes later at 3:45pm in Philadelphia. This got me thinking, what would your daily schedule look like if you continuously flew west?</description>
+    </item>
+    
+    <item>
+      <title>Fitting Non-Linear Growth Curves in R</title>
+      <link>/2017/06/07/fitting-non-linear-groth-curves-in-r/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/06/07/fitting-non-linear-groth-curves-in-r/</guid>
+      <description>A few months ago I offered to help a friend fit a bunch of microbial growth curves using R. When I was looking over possible solutions I was quite supprised by how little information was available online. Apart from the R package grofit (which after playing around with I decided seemed a little over-designed for my uses) I found very limited recources or code available. As a result of this I wanted to share a few functions I wrote to quickly fit non-linear growth models.</description>
+    </item>
+    
+    <item>
+      <title>2017 Matzah Hunt Potions Puzzle</title>
+      <link>/2017/06/04/2017-matzah-hunt-potions-puzzle/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/06/04/2017-matzah-hunt-potions-puzzle/</guid>
+      <description>For the past 3 years we have put together an event for our friends and family that we have named Matzah Hunt. We put on this event in place of/in addition to a Passover Seder and it is an afternoon and evening full of a series of math/logic puzzles which ultimately lead to a hunt for the Missing Matzah, hence the name, Matzah Hunt. Over the years, the puzzles have become more involved and creative, the decorations have become more elaborate, and luckily, the attendance has grown.</description>
+    </item>
+    
+    <item>
+      <title>Sampling Covariance Matricies with Fixed Total Variance</title>
+      <link>/2017/06/01/sampling-covariance-matricies-with-fixed-total-variance/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <author>stats.at.home@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/06/01/sampling-covariance-matricies-with-fixed-total-variance/</guid>
+      <description>Introduction I have been thinking a lot about the concept of Total Variance recently. Total variance (which can be defined as the trace of a covariance matrix) is a measure of global dispersion that has been particularly useful for me when building multivariate models. However, for some reason, I have yet to see this concept discussed much outside of compositional data analysis (see pg. 35 of Lecture Notes on Compositional Data Analysis) or Principle Component Analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

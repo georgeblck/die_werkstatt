@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/west/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/17/es-geht-wieder-los/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/17/testing/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/12/es-geht-wieder-los/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/02/shoutout---am-strand-magazin/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/10/eine-gerechte-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/12/29/shortcode-tests/</loc>
+    <lastmod>2016-12-29T13:39:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/imprint/</loc>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

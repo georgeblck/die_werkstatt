@@ -1,0 +1,15 @@
+[3]
+  Name = "nützliche links"
+  URL = "/links"
+
+[4]
+  Name = "leipziger westen"
+  URL = "/west"
+
+[2]
+  Name = "neuigkeiten"
+  URL = "/post"
+
+[1]
+  Name = "zur werkstatt"
+  URL = "/about"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stan on My New Hugo Site</title>
+    <link>/tags/stan/</link>
+    <description>Recent content in Stan on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/stan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Decision Theory Made Ridiculously Simple</title>
+      <link>/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/</guid>
+      <description>Framing the decision space Examples: Part 1  The other information that helps us make a decision Examples: Part 2  The Loss Function Examples: Part 3  Uncertainty Fully Worked Example: What price should I sell my used phone for? Next steps   Bayesian Decision Theory is a wonderfully useful tool that provides a formalism for decision making under uncertainty. It is used in a diverse range of applications including but definitely not limited to finance for guiding investment strategies or in engineering for designing control systems.</description>
+    </item>
+    
+    <item>
+      <title>Sampling Covariance Matricies with Fixed Total Variance</title>
+      <link>/2017/06/01/sampling-covariance-matricies-with-fixed-total-variance/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/01/sampling-covariance-matricies-with-fixed-total-variance/</guid>
+      <description>Introduction I have been thinking a lot about the concept of Total Variance recently. Total variance (which can be defined as the trace of a covariance matrix) is a measure of global dispersion that has been particularly useful for me when building multivariate models. However, for some reason, I have yet to see this concept discussed much outside of compositional data analysis (see pg. 35 of Lecture Notes on Compositional Data Analysis) or Principle Component Analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Made Ridiculously Simple on My New Hugo Site</title>
+    <link>/tags/made-ridiculously-simple/</link>
+    <description>Recent content in Made Ridiculously Simple on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/made-ridiculously-simple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Decision Theory Made Ridiculously Simple</title>
+      <link>/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/12/bayesian-decision-theory-made-ridiculously-simple/</guid>
+      <description>Framing the decision space Examples: Part 1  The other information that helps us make a decision Examples: Part 2  The Loss Function Examples: Part 3  Uncertainty Fully Worked Example: What price should I sell my used phone for? Next steps   Bayesian Decision Theory is a wonderfully useful tool that provides a formalism for decision making under uncertainty. It is used in a diverse range of applications including but definitely not limited to finance for guiding investment strategies or in engineering for designing control systems.</description>
+    </item>
+    
+    <item>
+      <title>Follow-up on Error Analysis</title>
+      <link>/2017/08/02/follow-up-on-error-analysis/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/02/follow-up-on-error-analysis/</guid>
+      <description>I wanted to write a quick post responding to a question that we received about our last post (Error Analysis Made Ridiculously Simple).
+ Can you give an example of how to generate an estimate of the error? It’s easy enough when measuring a table, as long as your meter stick is accurate: measure 1,000 times and make an inference. But in a setting where you don’t actually know the true outcome – let’s say you are trying to model household income – I’m not sure how to generate a reasonable guess of the size of the error.</description>
+    </item>
+    
+    <item>
+      <title>Error Analysis Made Ridiculously Simple</title>
+      <link>/2017/07/21/error-analysis-made-ridiculously-simple/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/21/error-analysis-made-ridiculously-simple/</guid>
+      <description>Introduction Example 1 - Adding two measurements Example 1a - Uniform Uncertainty and Max/Min Bounds Example 1b - Gaussian Uncertainty and Standard Deviation as Bounds  How to Use Simulation for Calculations Example 2 - Shipping bricks  Improving Back of the Envelope Calculations More Resources Code for Plotting   Introduction All measurements have uncertainty. This is not a subjective opinion but an objective fact that should never be ignored.</description>
+    </item>
+    
+    <item>
+      <title>Measure Theory Made Ridiculously Simple</title>
+      <link>/2017/06/26/measure-theory-made-ridiculously-simple/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/26/measure-theory-made-ridiculously-simple/</guid>
+      <description>During my first few years of medical school I became a big fan of the [Subject] Made Rediculously Simple book series (as in Clinical Microbiology Made Rediculously Simple). I found that the authors did a great job of simplifying the subject matter, sometimes to the point of absurdity, while getting the core concepts across in a memorable way. For some time now I have wished that similar tools were available for mathematics.</description>
+    </item>
+    
+  </channel>
+</rss>

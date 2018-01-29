@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzles on My New Hugo Site</title>
+    <link>/categories/puzzles/</link>
+    <description>Recent content in Puzzles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/puzzles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 Matzah Hunt Potions Puzzle</title>
+      <link>/2017/06/04/2017-matzah-hunt-potions-puzzle/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/04/2017-matzah-hunt-potions-puzzle/</guid>
+      <description>For the past 3 years we have put together an event for our friends and family that we have named Matzah Hunt. We put on this event in place of/in addition to a Passover Seder and it is an afternoon and evening full of a series of math/logic puzzles which ultimately lead to a hunt for the Missing Matzah, hence the name, Matzah Hunt. Over the years, the puzzles have become more involved and creative, the decorations have become more elaborate, and luckily, the attendance has grown.</description>
+    </item>
+    
+  </channel>
+</rss>

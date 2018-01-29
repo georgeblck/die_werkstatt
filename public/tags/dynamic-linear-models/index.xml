@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Linear Models on Statistics @ Home</title>
+    <link>/tags/dynamic-linear-models/</link>
+    <description>Recent content in Dynamic Linear Models on Statistics @ Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>jsilve24@gmail.com (Justin and Rachel Silverman)</managingEditor>
+    <webMaster>jsilve24@gmail.com (Justin and Rachel Silverman)</webMaster>
+    <copyright>(c) 2017 Justin and Rachel Silverman</copyright>
+    <lastBuildDate>Sun, 16 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dynamic-linear-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compositional Time Series Analysis with PhILR and Dynamic Linear Models</title>
+      <link>/2017/04/16/philr_dlm_demo/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <author>jsilve24@gmail.com (Justin and Rachel Silverman)</author>
+      <guid>/2017/04/16/philr_dlm_demo/</guid>
+      <description>We are going to simulate a compositional time-series of a 3 species population and we will view the dynamics in terms of the phylogenetic tree using the PhILR coordinates system. Specifically we are going to model a community that is undergoing a mean-reverting stochastic process and being acted on by an external force which itself is undergoing a random walk. On top of this we will simulate observational noise which obscures our measurements of the true community state at any given time.</description>
+    </item>
+    
+  </channel>
+</rss>
