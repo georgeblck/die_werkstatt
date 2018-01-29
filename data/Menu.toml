@@ -17,7 +17,3 @@
 [4]
   Name = "kosten"
   URL = "/money"
-
-[3]
-  Name = "skype"
-  URL = "/skype"

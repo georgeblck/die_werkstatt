@@ -6,7 +6,7 @@ categories: []
 tags: []
 ---
 
-# Wieso
+# Motivation
 ___
 
 Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundeskreis bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.

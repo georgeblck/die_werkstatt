@@ -54,7 +54,7 @@ paginatePath = "page"
     highlight = "default"
 
     # Sidebar social links.
-    github = "georgeblck" # Your Github profile ID
+    #github = "georgeblck" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID

@@ -8,10 +8,20 @@
     <language>de-DE</language>
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
-    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eine gerechtere Flüchtlingsverteilung für Europa</title>
+      <link>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
+      <description>Im September 2015 schlug die European Commison vor 120’000 Flüchtlinge von Griechenland, Italien &amp;amp; Ungarn auf alle anderen europäischen Länder umzuverteilen. Dies sollte mittels eines verbindlichen, fairen Verteilungsschlüssel passieren, welcher mit den folgenden Variablen und Gewichten berechnet wird
+ die Bevölkerungsanzahl (40% positives Gewicht) das BIP (40% positives Gewicht) die durchschnittliche Anzahl an bisherigen Asylanträgen (10% negatives Gewicht) die Arbeitslosigkeitsrate (10% negatives Gewicht.)  Ein positives Gewicht bedeutet, dass z.B. Länder mit mehr Einwohnern auch mehr Flüchtlinge aufnehmen sollten.</description>
+    </item>
     
     <item>
       <title>Es geht wieder los</title>
@@ -19,7 +29,8 @@
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/2018/01/12/es-geht-wieder-los/</guid>
-      <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig. Melde dich und mach ein Termin aus.</description>
+      <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig.
+Melde dich und mach ein Termin aus.</description>
     </item>
     
     <item>
@@ -28,7 +39,8 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/2018/01/02/shoutout---am-strand-magazin/</guid>
-      <description>Für interessante Dinge gibt es hier den shit: </description>
+      <description>Unsere Freunde aus der ArchitekturApotheke haben im Dezember 2017 ihr zweites Magazin veröffentlicht. Pressestimmen gab es unter anderem von Katja Kullmann. Ein Auszug aus dem Editorial:
+Diese Ausgabe bringt Beiträge zusammen, die ein diagnostisches und spekulatives Interesse verfolgen. In den Essays und künstlerischen Beiträgen wird zur Diskussion gestellt, was die digitalisierte Wirklichkeit von jener Welt unterscheidet, die wir vor allem aus den Büchern kannten. Andererseits soll die Analyse spezifischer Phänomene zeigen, was das Leben mit den Wolken konkret bedeuten kann und welche neuen Möglichkeiten es bietet, ob politisch, sozial oder visuell.</description>
     </item>
     
   </channel>

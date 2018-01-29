@@ -1,4 +1,4 @@
-nützliche links für die arbeit mit statistik
+Nützliche links für die Arbeit mit Daten
 ----------------
 ___
 

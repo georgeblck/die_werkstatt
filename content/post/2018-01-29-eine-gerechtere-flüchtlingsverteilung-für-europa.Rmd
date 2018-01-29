@@ -1,0 +1,24 @@
+---
+title: Eine gerechtere Flüchtlingsverteilung für Europa
+author: GB
+date: '2018-01-29'
+slug: eine-gerechtere-flüchtlingsverteilung-für-europa
+categories: []
+tags: []
+---
+
+Im September 2015 schlug die European Commison vor 120'000 Flüchtlinge von Griechenland, Italien & Ungarn auf alle anderen europäischen Länder umzuverteilen. Dies sollte mittels eines verbindlichen, fairen Verteilungsschlüssel passieren, welcher mit den folgenden Variablen und Gewichten berechnet wird
+
+* die Bevölkerungsanzahl (40% positives Gewicht)
+* das BIP (40% positives Gewicht)
+* die durchschnittliche Anzahl an bisherigen Asylanträgen (10% negatives Gewicht)
+* die Arbeitslosigkeitsrate (10% negatives Gewicht.)
+
+Ein positives Gewicht bedeutet, dass z.B. Länder mit mehr Einwohnern auch mehr Flüchtlinge aufnehmen sollten.
+
+Wir haben uns gefragt was passieren würde wenn man diesen Schlüssel auf **alle Asylanträge** der letzten Jahre anwenden würde.
+Wie viel sollten die einzelnen Länder aufnehmen und wie vergleicht sich dies mit der Realität?
+
+Um diese Frage zu beantworten haben wir eine interaktive Visualisierung entwickelt mit der man selber die Daten erkunden kann. Es gibt eine [englische](http://statistikwerkstatt.org:3838/refugee-distribution/shiny/) und [deutsche](http://statistikwerkstatt.org:3838/refugee-verteilung/shiny/) Version.
+
+<img src=/refugees_pic_german.png alt="refugees" style="width: 1000px;"/>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/01/29/eine-gerechtere-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</loc>
+    <lastmod>2018-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +38,10 @@
   
   <url>
     <loc>/links/</loc>
+  </url>
+  
+  <url>
+    <loc>/skype/</loc>
   </url>
   
   <url>
@@ -46,7 +55,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
