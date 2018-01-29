@@ -1,10 +1,10 @@
-[3]
+[5]
   Name = "nützliche links"
   URL = "/links"
 
-[4]
+[6]
   Name = "leipziger westen"
-  URL = "/west"
+  URL = "/gowest"
 
 [2]
   Name = "neuigkeiten"
@@ -13,3 +13,11 @@
 [1]
   Name = "zur werkstatt"
   URL = "/about"
+  
+[4]
+  Name = "kosten"
+  URL = "/money"
+
+[3]
+  Name = "skype"
+  URL = "/skype"

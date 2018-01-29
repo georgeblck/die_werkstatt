@@ -41,7 +41,7 @@ ___
 </p>
 
 ### Die interaktive Methodenberatung der Universität Zürich
-
+Falls die Frage ist: Welchen statistischen Test sollte ich benutzen?
 <p>
 <a target="_blank" href="http://www.methodenberatung.uzh.ch/de/datenanalyse.html">
 <img src=/swiss.png alt="Methodenberatung" style="width: 350px;"/>
@@ -49,8 +49,14 @@ ___
 </p>
 
 ### Eine Übersichtstabelle vieler Zusammenhangsmaße
+Falls die Frage ist: Welchen Korrelationskoeffizienten sollte ich benutzen?
 
 <p>
 <a target="_blank" href="https://matheguru.com/stochastik/korrelation-korrelationskoeffizient.html#Wann_welchen_Korrelationskoeffizienten_einsetzen_Tabelle-29">
 <img src=/guru_table.png alt="Korrelations-Tabelle" style="width: 350px;"/>
 </a></p>
+
+### Gute Blogs oder andere Quellen
+
+* [538.com](http://fivethirtyeight.com/): Interessante und quantitative Analysen zu Politik, Gesellschaft und Sport
+* [Amt für Statistik Leipzig](http://statistik.leipzig.de/statcity/index.aspx) Interessante Daten zur Stadt Leipzig

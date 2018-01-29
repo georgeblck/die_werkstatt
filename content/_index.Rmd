@@ -1,20 +1,26 @@
 # die StatistikWerkstatt
-#### Anlaufstelle für statistische Fragen & Probleme im Leipziger Westen
+#### Anlaufstelle für statistische Fragen & Probleme
+
+___
+
+### Beratung für wissenschaftliche Arbeiten
+
+Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit?
+Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
+Für eine Übersicht meiner Leistungen, siehe hier.
+
+### Statistik-Nachhilfe
+
+Wenn du und/oder deine Freunde Hilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
+
 ___
 
 
+## Für Leipziger und Nicht-Leipziger
 
+Falls du in Leipzig wohnst findet der Unterricht in meinen Räumlichkeiten in Leipzig-Leutzsch statt. **Eine vorherige Terminabsprache ist immer nötig**, also schreib mir eine Mail bevor Du kommst.
 
-### Was gibt es hier
-* **Wissenschaftliche Arbeiten**: Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit?
-Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
-
-* **Nachhilfe**: Wenn du und/oder deine Freunde Nachhilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
-Je nachdem wie viel und wie intensiv du Hilfe benötigst muss ich mich auf Nachhilfestunden seperat vorbereiten, also ist das eine nicht so spontante Sache.
-
-
-### Ort
-
+Ansonsten findet der Unterricht über Skype statt. Für mehr Informationen siehe hier.
 
 ```{r leutzsch-map, echo=FALSE}
 library(leaflet)
@@ -22,14 +28,15 @@ library(leaflet)
 statIcon <- makeIcon(
   iconUrl = "sw_logo.svg",
   iconWidth = 38, iconHeight = 75,
-  iconAnchorX = 0, iconAnchorY = 0,
+  iconAnchorX = 0, iconAnchorY = 0
 )
 
 m <- leaflet(width = "100%", height = "500px", padding = 2) %>%
-  addMarkers(lng=12.314049, lat=51.347738, popup="StatistikWerkstatt Leipzig", icon = statIcon) %>%
-  addProviderTiles(providers$Stamen.Watercolor,  options = providerTileOptions(opacity = 0.65))%>%
+  setView(lat = 51.347738, lng = 12.314049, zoom = 15) %>%
+   #setView(lat = 51.337356, lng = 12.346936, zoom = 13) %>%
+  addMarkers(lng=12.314049, lat=51.347738, icon = statIcon) %>%
+  addProviderTiles(providers$Stamen.Watercolor,  options = providerTileOptions(opacity = 0.60))%>%
   addProviderTiles(providers$Hydda.RoadsAndLabels)
-
 
 m
 ```

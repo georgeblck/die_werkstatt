@@ -6,8 +6,7 @@ categories: []
 tags: []
 ---
 
-schöne dinge in leutzsch und lindenau
-----------------
+# schöne dinge in leutzsch und lindenau
 ___
 
 
@@ -16,31 +15,37 @@ library(leaflet)
 greenLeafIcon <- makeIcon(
   iconUrl = "http://leafletjs.com/examples/custom-icons/leaf-red.png",
   iconWidth = 38, iconHeight = 75,
-  iconAnchorX = 22, iconAnchorY = 94,
+  iconAnchorX = 0, iconAnchorY = 0,
   shadowUrl = "http://leafletjs.com/examples/custom-icons/leaf-shadow.png",
   shadowWidth = 50, shadowHeight = 44,
   shadowAnchorX = 4, shadowAnchorY = 62
 )
-
+statIcon <- makeIcon(
+  iconUrl = "/sw_logo.svg",
+  iconWidth = 38, iconHeight = 75,
+  iconAnchorX = 0, iconAnchorY = 0
+)
 west.df <- data.frame(lat = c(51.338819, 51.347104, 51.339062, 51.338806), 
                        long = c(12.323817, 12.314775, 12.327141, 12.327017),
-                       mag = c("FahrradSelbstHilfeWerkstatt",
+                       mag = c("die FahrradSelbstHilfeWerkstatt",
                                "S1 Vinyl & Kaffee",
-                               "schwarzwurzel",
+                               "die schwarzwurzel",
                                "Schwarz Druck Leipzig"),
                       lab = c("Fahrradreparatur",
                               "Kaffee",
-                              "Essen",
+                              "Shopping",
                               "Druckerei"))
 
 m <- leaflet(data = west.df, width = "100%", height = "500px", padding = 2) %>%
-  addMarkers(~long, ~lat, popup = ~as.character(mag), label = ~as.character(lab), icon = greenLeafIcon) %>%
+  addMarkers(~long, ~lat, popup = ~as.character(mag), label = ~as.character(lab)) %>%
+  addMarkers(lng=12.314049, lat=51.347738, popup="StatistikWerkstatt Leipzig", icon = statIcon) %>%
   addProviderTiles(providers$Stamen.Watercolor,  options = providerTileOptions(opacity = 0.65))%>%
   addProviderTiles(providers$Hydda.RoadsAndLabels)
 
 
 m
 ```
+<p><br></p>
 
 
 ### Für Fahrräder und Reparaturen

@@ -1,0 +1,14 @@
+---
+title: "Kosten"
+author: "NH"
+date: "January 29, 2018"
+output: html_document
+---
+____
+
+Eine erste Beratung zu deinen Problemen ist **immer** kostenfrei. Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst sind die Stundenpreise (à 60 Minuten) wie folgt:
+
+* Haus- oder Bachelorarbeit: 25€
+* Master- oder Doktorarbeit: 30€
+
+Der Preis für Nachhilfestunden hängt sowohl vom Schwierigkeitsgrad als auch der Gruppengröße ab und wird deswegen einzeln ausgehandelt.

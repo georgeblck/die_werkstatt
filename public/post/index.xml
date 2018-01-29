@@ -8,29 +8,10 @@
     <language>de-DE</language>
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Es geht wieder los</title>
-      <link>/2018/01/17/es-geht-wieder-los/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/17/es-geht-wieder-los/</guid>
-      <description>Nach einer halbjährigen Pause hat die StatistikWerkstatt ab sofort wieder geöffnet. Egal ob du Unterstützung bei deiner quantitativen Abschlussarbeit oder Nachhilfe für die kommende Statistik-Klausur brauchst: hier bist du richtig. Melde dich und mach ein Termin aus.</description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>/2018/01/17/testing/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2018/01/17/testing/</guid>
-      <description>Recently, I have been following the development and release of Kyle Walker’s tidycensus package. I have been filled with amazement, delight, and well, perhaps another feeling…
-There should be a word for “the regret felt when an R 📦, which would have saved untold hours of your life, is released”… #rstats 🤔 https://t.co/2THN4MwedO — Mara Averick (@dataandme) May 31, 2017   But seriously, I have worked with US Census data a lot in the past and this package</description>
-    </item>
     
     <item>
       <title>Es geht wieder los</title>
@@ -48,25 +29,6 @@ There should be a word for “the regret felt when an R 📦, which would have s
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/2018/01/02/shoutout---am-strand-magazin/</guid>
       <description>Für interessante Dinge gibt es hier den shit: </description>
-    </item>
-    
-    <item>
-      <title>Eine gerechte Flüchtlingsverteilung für Europa</title>
-      <link>/2017/10/10/eine-gerechte-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2017/10/10/eine-gerechte-fl%C3%BCchtlingsverteilung-f%C3%BCr-europa/</guid>
-      <description>About this visualization In September 2015 the European Commission proposed a plan to relocate 120&amp;rsquo;000 refugees from Greece, Italy &amp;amp; Hungary to all European countries. This was supposed to be done by a mandatory distribution key using objective and quantifiable criteria, consisting of the following variables and weightings: &amp;gt; * the size of the population (40%, positive weight), &amp;gt; * the GDP (40%, positive weight), &amp;gt; * the average number of past asylum applications (10%, negative weight) and &amp;gt; * the unemployment rate (10%, negative weight).</description>
-    </item>
-    
-    <item>
-      <title>Shortcode Tests</title>
-      <link>/2016/12/29/shortcode-tests/</link>
-      <pubDate>Thu, 29 Dec 2016 13:39:24 -0500</pubDate>
-      <author>statistikwerkstatt@posteo.de (George Black)</author>
-      <guid>/2016/12/29/shortcode-tests/</guid>
-      <description>Hello, Thanks for downloading and testing our my shortcode pack. Below will load all of the shortcodes and display the various options they have. If you like and enjoy these short codes, please post a link on your blog to GeekThis.net, I would really appreciate it.
-Installing New Shortcodes To install shortcodes, copy each HTML file relating to a shortcode you want and place it into the shortcode directory inside of Hugo.</description>
     </item>
     
   </channel>
