@@ -11,7 +11,7 @@ publishdir = "public"
 metaDataFormat = "yaml"
 paginate = 5
 paginatePath = "page"
-relativeurls = true
+relativeurls = false
 
 [author]
     name = "George Black"
