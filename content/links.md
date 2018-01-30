@@ -59,4 +59,4 @@ Falls die Frage ist: Welchen Korrelationskoeffizienten sollte ich benutzen?
 ### Gute Blogs oder andere Quellen
 
 * [538.com](http://fivethirtyeight.com/): Interessante und quantitative Analysen zu Politik, Gesellschaft und Sport
-* [Amt für Statistik Leipzig](http://statistik.leipzig.de/statcity/index.aspx) Interessante Daten zur Stadt Leipzig
+* [Amt für Statistik Leipzig](http://statistik.leipzig.de/statcity/index.aspx) Interessante Daten und Visualisierungen der Stadt Leipzig (z.B. zur [Wahl 2017](https://www.leipzig.de/buergerservice-und-verwaltung/wahlen-in-leipzig/bundestagswahlen/bundestagswahl-2017/wahlergebnis/#wk-1))
