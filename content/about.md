@@ -17,7 +17,7 @@ Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fäche
 Also melde dich gerne und komm vorbei.
 
 
-# Themengebiete
+# Themenübersicht
 ___
 
 Um dir einen groben Überblick über die mir bekannten Fachbereiche zu geben, folgt nun eine Übersicht zu
