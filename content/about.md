@@ -17,15 +17,15 @@ Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fäche
 Also melde dich gerne und komm vorbei.
 
 
-# Leistungen
+# Themengebiete
 ___
 
-Um dir einen groben Überblick über meine Fachbereiche zu geben, folgt nun eine Übersicht zu
+Um dir einen groben Überblick über die mir bekannten Fachbereiche zu geben, folgt nun eine Übersicht zu
 
 * der Software, mit der ich regelmäßig arbeite,
 * den Statistik-Bereichen, in denen ich Nachhilfe gebe,
 * den Studiengängen der von mir im letzten Jahr betreuten Studierenden sowie
-* speziellere Methoden, mit denen ich mich gut auskenne.
+* speziellere Methoden, mit denen ich arbeite.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
@@ -81,7 +81,7 @@ Um dir einen groben Überblick über meine Fachbereiche zu geben, folgt nun eine
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l">Communication</td>
-    <td class="tg-yw4l">Ordinale Regression</td>
+    <td class="tg-yw4l">Rekurennte Neuronale Netze (LSTM, GRU)</td>
   </tr>
   <tr>
     <td class="tg-yw4l"></td>
