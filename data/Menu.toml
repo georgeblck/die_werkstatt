@@ -19,5 +19,5 @@
   URL = "/money"
 
 [1]
-  Name = "leistungen"
+  Name = "info"
   URL = "/info"

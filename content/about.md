@@ -11,8 +11,8 @@ ___
 
 Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundeskreis bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.
 
-Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten in dem gemeinsam mit Statistik gearbeitet werden kann - die **StatistikWerkstatt** ist das Resultat dieses Wunsches.
-Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben kann ich sagen, dass es mir immer noch sehr sehr viel Spaß macht.
+Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm, in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten, in dem gemeinsam mit Statistik gearbeitet werden kann - die **StatistikWerkstatt** ist das Resultat dieses Wunsches.
+Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben habe kann ich sagen, dass es mir immer noch sehr viel Spaß macht.
 
 Also melde dich gerne und komm vorbei.
 
@@ -20,12 +20,12 @@ Also melde dich gerne und komm vorbei.
 # Leistungen
 ___
 
-Um einen groben Überblick über meine Leistungen zu haben folgt nun eine Übersicht zu:
+Um dir einen groben Überblick über meine Fachbereiche zu geben, folgt nun eine Übersicht zu
 
-* der Software mit der ich regelmäßig arbeite,
-* den Statistik-Bereichen in denen ich Nachhilfe gebe,
-* den Studiengängen der von mir im letzten Jahr betreuten Studierenden, sowie
-* speziellere Methoden mit denen ich mich gut auskenne.
+* der Software, mit der ich regelmäßig arbeite,
+* den Statistik-Bereichen, in denen ich Nachhilfe gebe,
+* den Studiengängen der von mir im letzten Jahr betreuten Studierenden sowie
+* speziellere Methoden, mit denen ich mich gut auskenne.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}

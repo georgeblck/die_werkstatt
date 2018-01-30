@@ -13,6 +13,8 @@ paginate = 5
 paginatePath = "page"
 relativeurls = true
 
+copyright = "(c) Nikolai Huckle"
+
 [author]
     name = "George Black"
     email = "statistikwerkstatt@posteo.de"
