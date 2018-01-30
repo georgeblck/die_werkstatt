@@ -69,7 +69,9 @@ Diese Ausgabe bringt Beiträge zusammen, die ein diagnostisches und spekulatives
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/imprint/</guid>
       <description>impressum Angaben gemäß § 5 TMG
-Johannes Huckle Georg-Schwarz-Straße 138 04179 Leipzig
+Nikolai Huckle
+Georg-Schwarz-Straße 138
+04179 Leipzig
 Vertreten durch: Nikolai Huckle
 Kontakt: Telefon: 0177-2833877
 E-Mail: statistikwerkstatt@posteo.de
@@ -79,6 +81,17 @@ Aufsichtsbehörde: Finanzamt Leipzig I
 Haftungsausschluss:
 Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/info/</guid>
+      <description>Was biete ich an Beratung für wissenschaftliche Arbeiten Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit? Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
+Schick mir dazu am besten eine Mail in der du mir die wichtigsten Informationen deiner Arbeit erklärst (Studiengang, Software, Daten, Abgabetermin).
+Statistik-Nachhilfe Benötigst du (und deine Freunde) Hilfe für die Vorbereitung einer Prüfung im Bereich Statistik, das Lösen von Übungsblättern während des Semesters oder andere konkrete Unterstützung gebe ich dir gerne Nachhilfe.</description>
     </item>
     
     <item>

@@ -41,7 +41,7 @@ relativeurls = true
     defaultDescription = "Your default page description"
     defaultKeywords = "your,default,page,keywords"
 
-    # Sidebar position
+    # Sidebar position
     # false, true, "left", "right"
     sidebar = "left"
 
