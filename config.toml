@@ -30,13 +30,7 @@ copyright = "(c) Nikolai Huckle"
     # You can use markdown here.
     #brand = "Statistik Werkstatt Leipzig"#"<i class='fa fa-heart'></i> & statistics"
     brand = "![](/sw_logo_text_small.png)"
-
-    #brand = "<img src=/sw_logo.svg alt="Logo" style="width: 50px;"/>"
-    #brand = "![diedas](sw_logo.svg)"
-    #brand = "![diedas](sw_logo_11.png)"
-    #topline = "![diedas](/sw_logo_11.png)"
     topline = "Georg-Schwarz-Straße  <br> 04179 Leipzig"
-    #topline = "## StatistikWerkstatt Leipzig"
     footline = "Created with [Hugo](http://gohugo.io), the [Hyde-Y](https://github.com/enten/hyde-y) theme and [blogdown](https://github.com/rstudio/blogdown)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](https://www.statistikwerkstatt.org/imprint)"
 
     # Used when a given page doesn't set its own.

@@ -2,7 +2,7 @@
 
 <p>
 <span title="Klick mich">
-<a target="_blank" href="https://statistikwerkstatt.org/info">
+<a href="https://statistikwerkstatt.org/info">
 <img src=/sw_logo_text_big.png alt="Logo_Big" style="width: 1000px;"/>
 </a>
 </span>
