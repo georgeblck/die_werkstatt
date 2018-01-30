@@ -8,6 +8,7 @@
     <language>de-DE</language>
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
+    <copyright>(c) Nikolai Huckle</copyright>
     <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -30,7 +31,7 @@
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/about/</guid>
       <description>Motivation Während meines Studiums habe ich sowohl als Tutor Statistikkurse &amp;amp; Nachhilfe angeboten als auch im erweiterten Freundeskreis bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.
-Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten in dem gemeinsam mit Statistik gearbeitet werden kann - die StatistikWerkstatt ist das Resultat dieses Wunsches. Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben kann ich sagen, dass es mir immer noch sehr sehr viel Spaß macht.</description>
+Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm, in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten, in dem gemeinsam mit Statistik gearbeitet werden kann - die StatistikWerkstatt ist das Resultat dieses Wunsches. Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben habe kann ich sagen, dass es mir immer noch sehr viel Spaß macht.</description>
     </item>
     
     <item>
@@ -89,9 +90,9 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/info/</guid>
-      <description>Was biete ich an Beratung für wissenschaftliche Arbeiten Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit? Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
-Schick mir dazu am besten eine Mail in der du mir die wichtigsten Informationen deiner Arbeit erklärst (Studiengang, Software, Daten, Abgabetermin).
-Statistik-Nachhilfe Benötigst du (und deine Freunde) Hilfe für die Vorbereitung einer Prüfung im Bereich Statistik, das Lösen von Übungsblättern während des Semesters oder andere konkrete Unterstützung gebe ich dir gerne Nachhilfe.</description>
+      <description>Was biete ich an Beratung für wissenschaftliche Arbeiten Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit? Egal ob SPSS, Stata oder R, egal welches Fach: solange quantitative Methoden verwendet werden, helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
+Schick mir dazu am besten eine Mail, in der du mir die wichtigsten Informationen deiner Arbeit erklärst (Studiengang, Software, Daten, Abgabetermin).
+Statistik-Nachhilfe Benötigst du (und deine Freunde) Hilfe für die Vorbereitung einer Prüfung im Bereich Statistik, das Lösen von Übungsblättern während des Semesters oder andere konkrete Unterstützung?</description>
     </item>
     
     <item>
@@ -118,8 +119,8 @@ Statistik-Nachhilfe Benötigst du (und deine Freunde) Hilfe für die Vorbereitun
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/money/</guid>
-      <description>Eine erste Beratung zu deinen Problemen ist immer kostenfrei. Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst sind die Stundenpreise (à 60 Minuten) wie folgt:
- Haus- oder Bachelorarbeit: 25€ Master- oder Doktorarbeit: 30€  Der Preis für Nachhilfestunden hängt sowohl vom Schwierigkeitsgrad als auch der Gruppengröße ab und wird deswegen einzeln ausgehandelt.</description>
+      <description>Eine erste Beratung zu deinen Problemen ist immer kostenfrei. Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst, sind die Stundenpreise (à 60 Minuten) wie folgt:
+ Haus- oder Bachelorarbeit: 20€ Master- oder Doktorarbeit: 25€  Der Preis für Nachhilfestunden hängt sowohl vom Schwierigkeitsgrad als auch von der Gruppengröße ab und wird deswegen einzeln ausgehandelt.</description>
     </item>
     
   </channel>
