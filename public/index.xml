@@ -9,10 +9,19 @@
     <managingEditor>statistikwerkstatt@posteo.de (George Black)</managingEditor>
     <webMaster>statistikwerkstatt@posteo.de (George Black)</webMaster>
     <copyright>(c) Nikolai Huckle</copyright>
-    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/firas/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>statistikwerkstatt@posteo.de (George Black)</author>
+      <guid>/firas/</guid>
+      <description>Die Deskriptiven Statistiken ## AmihudMean BidAskMean CSR Asset4CSR LogTotalAssets ## nbr.val 1481.00000000 1481.0000 1252.00 730.00 1682.000 ## nbr.null 1.00000000 5.0000 201.00 0.00 0.000 ## nbr.na 345.00000000 345.0000 574.00 1096.00 144.000 ## min -1.34000000 -0.1440 0.00 3.30 10.092 ## max 0.00000000 1.5300 36.00 97.68 22.065 ## range 1.34000000 1.6740 36.00 94.38 11.973 ## sum -1.65971154 21.2943 16089.00 41531.12 27158.189 ## median -0.00000058 0.0042 11.00 63.90 16.020 ## mean -0.00112067 0.0144 12.85 56.</description>
+    </item>
     
     <item>
       <title>Eine gerechtere Flüchtlingsverteilung für Europa</title>
