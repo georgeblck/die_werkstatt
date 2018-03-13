@@ -8,6 +8,8 @@ tags: []
 
 
 
+<div id="fur-firas" class="section level1">
+<h1>Für Firas :)</h1>
 <div id="die-deskriptiven-statistiken" class="section level2">
 <h2>Die Deskriptiven Statistiken</h2>
 <pre><code>##                 AmihudMean BidAskMean      CSR Asset4CSR LogTotalAssets
@@ -55,40 +57,74 @@ tags: []
 ## var              0.634
 ## std.dev          0.796
 ## coef.var        10.790</code></pre>
-<p><img src="/firas_files/figure-html/descr-1.png" width="\maxwidth" /></p>
-<pre><code>##                         AmihudMean BidAskMean   CSR Asset4CSR
-## AmihudMean                    1.00       0.00  0.10     -0.05
-## BidAskMean                    0.00       1.00 -0.25     -0.02
-## CSR                           0.10      -0.25  1.00      0.67
-## Asset4CSR                    -0.05      -0.02  0.67      1.00
-## LogTotalAssets                0.05      -0.23  0.56      0.51
-## LogMarktkapitalisierung       0.05      -0.23  0.48      0.32
-## Turnover                      0.00      -0.01 -0.08     -0.04
-## ReturnVolatility              0.01       0.06 -0.08      0.05
-## DebtRatio                     0.00       0.02 -0.01      0.12
+</div>
+<div id="korrelationen-als-grafik-und-matrix" class="section level2">
+<h2>Korrelationen als Grafik und Matrix</h2>
+<p><img src="/firas_files/figure-html/corr-1.png" width="\maxwidth" /></p>
+<pre><code>## The Correlations:</code></pre>
+<pre><code>##                         AmihudMean BidAskMean    CSR Asset4CSR
+## AmihudMean                  1.0000     0.0012  0.096    -0.048
+## BidAskMean                  0.0012     1.0000 -0.246    -0.024
+## CSR                         0.0960    -0.2457  1.000     0.666
+## Asset4CSR                  -0.0478    -0.0236  0.666     1.000
+## LogTotalAssets              0.0516    -0.2302  0.560     0.511
+## LogMarktkapitalisierung     0.0532    -0.2335  0.484     0.320
+## Turnover                    0.0015    -0.0055 -0.075    -0.041
+## ReturnVolatility            0.0119     0.0649 -0.076     0.049
+## DebtRatio                   0.0025     0.0208 -0.015     0.125
 ##                         LogTotalAssets LogMarktkapitalisierung Turnover
-## AmihudMean                        0.05                    0.05     0.00
-## BidAskMean                       -0.23                   -0.23    -0.01
-## CSR                               0.56                    0.48    -0.08
-## Asset4CSR                         0.51                    0.32    -0.04
-## LogTotalAssets                    1.00                    0.88    -0.05
-## LogMarktkapitalisierung           0.88                    1.00    -0.15
-## Turnover                         -0.05                   -0.15     1.00
-## ReturnVolatility                 -0.05                   -0.09     0.00
-## DebtRatio                         0.00                   -0.02     0.00
+## AmihudMean                    0.051632                   0.053   0.0015
+## BidAskMean                   -0.230177                  -0.234  -0.0055
+## CSR                           0.560002                   0.484  -0.0753
+## Asset4CSR                     0.510526                   0.320  -0.0410
+## LogTotalAssets                1.000000                   0.879  -0.0497
+## LogMarktkapitalisierung       0.878850                   1.000  -0.1504
+## Turnover                     -0.049703                  -0.150   1.0000
+## ReturnVolatility             -0.054798                  -0.085  -0.0021
+## DebtRatio                    -0.000071                  -0.023  -0.0016
 ##                         ReturnVolatility DebtRatio
-## AmihudMean                          0.01      0.00
-## BidAskMean                          0.06      0.02
-## CSR                                -0.08     -0.01
-## Asset4CSR                           0.05      0.12
-## LogTotalAssets                     -0.05      0.00
-## LogMarktkapitalisierung            -0.09     -0.02
-## Turnover                            0.00      0.00
-## ReturnVolatility                    1.00      0.00
-## DebtRatio                           0.00      1.00
-## 
-## n
-##                         AmihudMean BidAskMean  CSR Asset4CSR
+## AmihudMean                       0.01187  0.002511
+## BidAskMean                       0.06489  0.020756
+## CSR                             -0.07587 -0.014971
+## Asset4CSR                        0.04931  0.124622
+## LogTotalAssets                  -0.05480 -0.000071
+## LogMarktkapitalisierung         -0.08505 -0.022528
+## Turnover                        -0.00205 -0.001570
+## ReturnVolatility                 1.00000  0.000242
+## DebtRatio                        0.00024  1.000000</code></pre>
+<pre><code>## The p-Values:</code></pre>
+<pre><code>##                         AmihudMean BidAskMean    CSR Asset4CSR
+## AmihudMean                      NA      0.965 0.0011   0.20195
+## BidAskMean                  0.9646         NA 0.0000   0.52922
+## CSR                         0.0011      0.000     NA   0.00000
+## Asset4CSR                   0.2019      0.529 0.0000        NA
+## LogTotalAssets              0.0485      0.000 0.0000   0.00000
+## LogMarktkapitalisierung     0.0426      0.000 0.0000   0.00000
+## Turnover                    0.9558      0.835 0.0109   0.27312
+## ReturnVolatility            0.6541      0.014 0.0091   0.19672
+## DebtRatio                   0.9237      0.428 0.6029   0.00075
+##                         LogTotalAssets LogMarktkapitalisierung
+## AmihudMean                       0.048            0.0425663126
+## BidAskMean                       0.000            0.0000000000
+## CSR                              0.000            0.0000000000
+## Asset4CSR                        0.000            0.0000000000
+## LogTotalAssets                      NA            0.0000000000
+## LogMarktkapitalisierung          0.000                      NA
+## Turnover                         0.052            0.0000000039
+## ReturnVolatility                 0.037            0.0012403787
+## DebtRatio                        0.998            0.3749698265
+##                             Turnover ReturnVolatility DebtRatio
+## AmihudMean              0.9557776375           0.6541   0.92367
+## BidAskMean              0.8348153708           0.0143   0.42839
+## CSR                     0.0108687850           0.0091   0.60288
+## Asset4CSR               0.2731189899           0.1967   0.00075
+## LogTotalAssets          0.0523089171           0.0370   0.99767
+## LogMarktkapitalisierung 0.0000000039           0.0012   0.37497
+## Turnover                          NA           0.9383   0.95121
+## ReturnVolatility        0.9383384893               NA   0.99266
+## DebtRatio               0.9512135357           0.9927        NA</code></pre>
+<pre><code>## The pairwise number of observations:</code></pre>
+<pre><code>##                         AmihudMean BidAskMean  CSR Asset4CSR
 ## AmihudMean                    1481       1481 1151       713
 ## BidAskMean                    1481       1481 1151       713
 ## CSR                           1151       1151 1252       626
@@ -117,60 +153,32 @@ tags: []
 ## LogMarktkapitalisierung             1439      1553
 ## Turnover                            1421      1522
 ## ReturnVolatility                    1479      1446
-## DebtRatio                           1446      1679
-## 
-## P
-##                         AmihudMean BidAskMean CSR    Asset4CSR
-## AmihudMean                         0.9646     0.0011 0.2019   
-## BidAskMean              0.9646                0.0000 0.5292   
-## CSR                     0.0011     0.0000            0.0000   
-## Asset4CSR               0.2019     0.5292     0.0000          
-## LogTotalAssets          0.0485     0.0000     0.0000 0.0000   
-## LogMarktkapitalisierung 0.0426     0.0000     0.0000 0.0000   
-## Turnover                0.9558     0.8348     0.0109 0.2731   
-## ReturnVolatility        0.6541     0.0143     0.0091 0.1967   
-## DebtRatio               0.9237     0.4284     0.6029 0.0008   
-##                         LogTotalAssets LogMarktkapitalisierung Turnover
-## AmihudMean              0.0485         0.0426                  0.9558  
-## BidAskMean              0.0000         0.0000                  0.8348  
-## CSR                     0.0000         0.0000                  0.0109  
-## Asset4CSR               0.0000         0.0000                  0.2731  
-## LogTotalAssets                         0.0000                  0.0523  
-## LogMarktkapitalisierung 0.0000                                 0.0000  
-## Turnover                0.0523         0.0000                          
-## ReturnVolatility        0.0370         0.0012                  0.9383  
-## DebtRatio               0.9977         0.3750                  0.9512  
-##                         ReturnVolatility DebtRatio
-## AmihudMean              0.6541           0.9237   
-## BidAskMean              0.0143           0.4284   
-## CSR                     0.0091           0.6029   
-## Asset4CSR               0.1967           0.0008   
-## LogTotalAssets          0.0370           0.9977   
-## LogMarktkapitalisierung 0.0012           0.3750   
-## Turnover                0.9383           0.9512   
-## ReturnVolatility                         0.9927   
-## DebtRatio               0.9927</code></pre>
+## DebtRatio                           1446      1679</code></pre>
+</div>
+<div id="die-verteilung-von-csr" class="section level2">
+<h2>Die Verteilung von CSR</h2>
+<pre><code>## The Statistics of CSR:</code></pre>
 <pre><code>##  min Q1 median Q3 max mean sd    n missing
 ##    0  3     11 21  36   13 11 1252     574</code></pre>
-<pre><code>## Warning: Removed 574 rows containing non-finite values (stat_bin).</code></pre>
-<pre><code>## Warning: Removed 1 rows containing missing values (geom_bar).</code></pre>
-<p><img src="/firas_files/figure-html/descr-2.png" width="\maxwidth" /></p>
-<pre><code>## Warning: Removed 1200 rows containing non-finite values (stat_smooth).</code></pre>
-<pre><code>## Warning: Removed 1200 rows containing missing values (geom_point).</code></pre>
-<p><img src="/firas_files/figure-html/descr-3.png" width="\maxwidth" /></p>
+<p><img src="/firas_files/figure-html/CSR-1.png" width="\maxwidth" /><img src="/firas_files/figure-html/CSR-2.png" width="\maxwidth" /></p>
+</div>
+<div id="die-verteilung-der-iv-variable" class="section level2">
+<h2>Die Verteilung der IV-Variable</h2>
+<pre><code>## Tabelle der LegalCodeOrigin-Häufigkeiten</code></pre>
 <pre><code>## 
 ##      English       French       German Scandinavian    Socialist 
 ##          847          407          418           77           77</code></pre>
-<p><img src="/firas_files/figure-html/descr-4.png" width="\maxwidth" /></p>
+<p><img src="/firas_files/figure-html/iv-1.png" width="\maxwidth" /></p>
+</div>
+<div id="die-verteilung-von-csr-per-legalcode" class="section level2">
+<h2>Die Verteilung von CSR per LegalCode</h2>
+<pre><code>## Deskriptive Statistiken der CSR-Variable pro LegalCode:</code></pre>
 <pre><code>##    LegalOrigin min  Q1 median Q3 max mean   sd   n missing
 ## 1      English   0 1.0      9 17  35 10.3  9.6 602     245
 ## 2       French   0 5.0     12 27  36 15.7 11.4 262     145
 ## 3       German   0 5.2     14 29  36 15.4 11.8 262     156
 ## 4 Scandinavian   0 6.0     20 27  33 17.4 10.9  69       8
 ## 5    Socialist   0 3.0      7 11  32  9.8  8.8  57      20</code></pre>
-<pre><code>## Warning: Removed 574 rows containing non-finite values (stat_bin).</code></pre>
-<p><img src="/firas_files/figure-html/descr-5.png" width="\maxwidth" /></p>
-<pre><code>## Warning: Removed 574 rows containing non-finite values (stat_boxplot).</code></pre>
-<pre><code>## Warning: Removed 669 rows containing missing values (geom_point).</code></pre>
-<p><img src="/firas_files/figure-html/descr-6.png" width="\maxwidth" /></p>
+<p><img src="/firas_files/figure-html/csr_iv-1.png" width="\maxwidth" /><img src="/firas_files/figure-html/csr_iv-2.png" width="\maxwidth" /></p>
+</div>
 </div>
