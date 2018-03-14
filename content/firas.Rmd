@@ -31,7 +31,7 @@ options(digits = 2)
 ## Deskriptive Statistiken
 descr.data <- as.data.frame(total.annual[, c("AmihudMean", "BidAskMean", 
     "CSR", "Asset4CSR", "LogTotalAssets", "LogMarktkapitalisierung", 
-    "Turnover", "ReturnVolatility", "DebtRatio")])
+    "Turnover", "ReturnVolatility", "DebtRatio", "MTB", "Aktienrendite")])
 stat.desc(descr.data)
 
 ```
