@@ -23,7 +23,7 @@ library(mosaic)
 ## Die Deskriptiven Statistiken
 
 ```{r descr, echo = FALSE , out.width = '\\maxwidth'}
-total.annual <- read.csv2("totannual.csv")
+total.annual <- read.csv2("totalannual.csv")
 
 options(scipen = 100)
 options(digits = 2)
@@ -32,6 +32,7 @@ options(digits = 2)
 descr.data <- as.data.frame(total.annual[, c("AmihudMean", "BidAskMean", 
     "CSR", "Asset4CSR", "LogTotalAssets", "LogMarktkapitalisierung", 
     "Turnover", "ReturnVolatility", "DebtRatio", "MTB", "Aktienrendite", "logAktienkurs")])
+descr.data$AmihudMean <- descr.data$AmihudMean * 10^4
 stat.desc(descr.data)
 
 ```
@@ -72,7 +73,7 @@ ggplot(total.annual, aes(x = CSR)) + geom_histogram(binwidth = 1,
 
 # 2. CSR vs Asset4CSR
 ggplot(total.annual, aes(x = CSR, y = Asset4CSR)) + geom_point(na.rm = TRUE) + 
-    geom_smooth(method = "loess",na.rm = TRUE)+ggtitle("CSR vs. Asset4CSR")
+    geom_smooth(method = "lm",na.rm = TRUE)+ggtitle("CSR vs. Asset4CSR")
 
 ```
 
