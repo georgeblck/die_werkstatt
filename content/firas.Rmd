@@ -29,10 +29,11 @@ options(scipen = 100)
 options(digits = 2)
 
 ## Deskriptive Statistiken
-descr.data <- as.data.frame(total.annual[, c("AmihudMean", "BidAskMean", 
+descr.data <- as.data.frame(total.annual[, c("AmihudMean", "AmihudV2Mean", "BidAskMean", 
     "CSR", "Asset4CSR", "LogTotalAssets", "LogMarktkapitalisierung", 
     "Turnover", "ReturnVolatility", "DebtRatio", "MTB", "Aktienrendite", "logAktienkurs")])
-descr.data$AmihudMean <- descr.data$AmihudMean * 10^4
+descr.data$AmihudMean <- descr.data$AmihudMean * 10^6
+descr.data$AmihudV2Mean <- descr.data$AmihudMean * 10^6
 stat.desc(descr.data)
 
 ```

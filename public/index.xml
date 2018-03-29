@@ -20,7 +20,7 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>statistikwerkstatt@posteo.de (George Black)</author>
       <guid>/firas/</guid>
-      <description>Für Firas :) Die Deskriptiven Statistiken ## AmihudMean BidAskMean CSR Asset4CSR LogTotalAssets ## nbr.val 1481.0000 1481.0000 1252.00 730.00 1682.000 ## nbr.null 1.0000 5.0000 201.00 0.00 0.000 ## nbr.na 345.0000 345.0000 574.00 1096.00 144.000 ## min -13400.0000 -0.1440 0.00 3.30 17.000 ## max 0.0000 1.5300 36.00 97.68 28.972 ## range 13400.0000 1.6740 36.00 94.38 11.973 ## sum -16597.1154 21.2943 16089.00 41531.12 38777.033 ## median -0.0058 0.0042 11.00 63.90 22.928 ## mean -11.</description>
+      <description>Für Firas :) Die Deskriptiven Statistiken ## AmihudMean AmihudV2Mean BidAskMean CSR ## nbr.val 1481.00 1481 1481.0000 1252.00 ## nbr.null 1.00 1 5.0000 201.00 ## nbr.na 345.00 345 345.0000 574.00 ## min -1340000.00 -1340000000000 -0.1440 0.00 ## max 0.00 0 1.5300 36.00 ## range 1340000.00 1340000000000 1.6740 36.00 ## sum -1659711.54 -1659711535180 21.2943 16089.00 ## median -0.58 -584000 0.0042 11.00 ## mean -1120.67 -1120669504 0.0144 12.85 ## SE.mean 905.39 905394055 0.0014 0.</description>
     </item>
     
     <item>

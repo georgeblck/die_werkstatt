@@ -45,7 +45,7 @@
     },
     "datePublished": "2018-03-01",
     "description": "",
-    "wordCount": 1192
+    "wordCount": 1338
   }
 </script>
 
@@ -183,137 +183,159 @@ MathJax.Hub.Config({
 <h1>Für Firas :)</h1>
 <div id="die-deskriptiven-statistiken" class="section level2">
 <h2>Die Deskriptiven Statistiken</h2>
-<pre><code>##               AmihudMean BidAskMean      CSR Asset4CSR LogTotalAssets
-## nbr.val        1481.0000  1481.0000  1252.00    730.00       1682.000
-## nbr.null          1.0000     5.0000   201.00      0.00          0.000
-## nbr.na          345.0000   345.0000   574.00   1096.00        144.000
-## min          -13400.0000    -0.1440     0.00      3.30         17.000
-## max               0.0000     1.5300    36.00     97.68         28.972
-## range         13400.0000     1.6740    36.00     94.38         11.973
-## sum          -16597.1154    21.2943 16089.00  41531.12      38777.033
-## median           -0.0058     0.0042    11.00     63.90         22.928
-## mean            -11.2067     0.0144    12.85     56.89         23.054
-## SE.mean           9.0539     0.0014     0.31      1.19          0.056
-## CI.mean.0.95     17.7599     0.0028     0.60      2.33          0.110
-## var          121403.2562     0.0030   117.96   1025.55          5.296
-## std.dev         348.4297     0.0546    10.86     32.02          2.301
-## coef.var        -31.0912     3.7972     0.85      0.56          0.100
-##              LogMarktkapitalisierung Turnover ReturnVolatility DebtRatio
-## nbr.val                     1556.000  1525.00       1479.00000  1679.000
-## nbr.null                       0.000     2.00          0.00000   353.000
-## nbr.na                       270.000   301.00        347.00000   147.000
-## min                           13.248     0.00          0.00062     0.000
-## max                           26.098  3053.62        516.19796    32.495
-## range                         12.850  3053.62        516.19734    32.495
-## sum                        33277.559  7159.00       2845.08306   123.896
-## median                        21.478     0.49          0.19421     0.029
-## mean                          21.387     4.69          1.92365     0.074
-## SE.mean                        0.047     2.70          0.42260     0.019
-## CI.mean.0.95                   0.092     5.29          0.82896     0.038
-## var                            3.447 11093.49        264.13468     0.634
-## std.dev                        1.857   105.33         16.25222     0.796
-## coef.var                       0.087    22.44          8.44862    10.790
-##                   MTB Aktienrendite logAktienkurs
-## nbr.val      1495.000      1463.000      1567.000
-## nbr.null        1.000        11.000         1.000
-## nbr.na        331.000       363.000       259.000
-## min             0.000        -0.999        -4.605
-## max            18.580       122.794         9.401
-## range          18.580       123.793        14.006
-## sum          2484.730       658.060      3391.451
-## median          1.290         0.073         2.271
-## mean            1.662         0.450         2.164
-## SE.mean         0.036         0.112         0.050
-## CI.mean.0.95    0.071         0.220         0.098
-## var             1.982        18.382         3.924
-## std.dev         1.408         4.287         1.981
-## coef.var        0.847         9.532         0.915</code></pre>
+<pre><code>##                 AmihudMean           AmihudV2Mean BidAskMean      CSR
+## nbr.val            1481.00                   1481  1481.0000  1252.00
+## nbr.null              1.00                      1     5.0000   201.00
+## nbr.na              345.00                    345   345.0000   574.00
+## min            -1340000.00         -1340000000000    -0.1440     0.00
+## max                   0.00                      0     1.5300    36.00
+## range           1340000.00          1340000000000     1.6740    36.00
+## sum            -1659711.54         -1659711535180    21.2943 16089.00
+## median               -0.58                -584000     0.0042    11.00
+## mean              -1120.67            -1120669504     0.0144    12.85
+## SE.mean             905.39              905394055     0.0014     0.31
+## CI.mean.0.95       1775.99             1775992150     0.0028     0.60
+## var          1214032562.42 1214032562420289634304     0.0030   117.96
+## std.dev           34842.97            34842970057     0.0546    10.86
+## coef.var            -31.09                    -31     3.7972     0.85
+##              Asset4CSR LogTotalAssets LogMarktkapitalisierung Turnover
+## nbr.val         730.00       1682.000                1556.000  1525.00
+## nbr.null          0.00          0.000                   0.000     2.00
+## nbr.na         1096.00        144.000                 270.000   301.00
+## min               3.30         17.000                  13.248     0.00
+## max              97.68         28.972                  26.098  3053.62
+## range            94.38         11.973                  12.850  3053.62
+## sum           41531.12      38777.033               33277.559  7159.00
+## median           63.90         22.928                  21.478     0.49
+## mean             56.89         23.054                  21.387     4.69
+## SE.mean           1.19          0.056                   0.047     2.70
+## CI.mean.0.95      2.33          0.110                   0.092     5.29
+## var            1025.55          5.296                   3.447 11093.49
+## std.dev          32.02          2.301                   1.857   105.33
+## coef.var          0.56          0.100                   0.087    22.44
+##              ReturnVolatility DebtRatio      MTB Aktienrendite
+## nbr.val            1479.00000  1679.000 1495.000      1463.000
+## nbr.null              0.00000   353.000    1.000        11.000
+## nbr.na              347.00000   147.000  331.000       363.000
+## min                   0.00062     0.000    0.000        -0.999
+## max                 516.19796    32.495   18.580       122.794
+## range               516.19734    32.495   18.580       123.793
+## sum                2845.08306   123.896 2484.730       658.060
+## median                0.19421     0.029    1.290         0.073
+## mean                  1.92365     0.074    1.662         0.450
+## SE.mean               0.42260     0.019    0.036         0.112
+## CI.mean.0.95          0.82896     0.038    0.071         0.220
+## var                 264.13468     0.634    1.982        18.382
+## std.dev              16.25222     0.796    1.408         4.287
+## coef.var              8.44862    10.790    0.847         9.532
+##              logAktienkurs
+## nbr.val           1567.000
+## nbr.null             1.000
+## nbr.na             259.000
+## min                 -4.605
+## max                  9.401
+## range               14.006
+## sum               3391.451
+## median               2.271
+## mean                 2.164
+## SE.mean              0.050
+## CI.mean.0.95         0.098
+## var                  3.924
+## std.dev              1.981
+## coef.var             0.915</code></pre>
 </div>
 <div id="korrelationen-als-grafik-und-matrix" class="section level2">
 <h2>Korrelationen als Grafik und Matrix</h2>
 <p><img src="../firas_files/figure-html/corr-1.png" width="\maxwidth" /></p>
 <pre><code>## The Correlations:</code></pre>
-<pre><code>##                         AmihudMean BidAskMean    CSR Asset4CSR
-## AmihudMean                  1.0000     0.0012  0.096   -0.0478
-## BidAskMean                  0.0012     1.0000 -0.246   -0.0236
-## CSR                         0.0960    -0.2457  1.000    0.6660
-## Asset4CSR                  -0.0478    -0.0236  0.666    1.0000
-## LogTotalAssets              0.0516    -0.2302  0.560    0.5105
-## LogMarktkapitalisierung     0.0532    -0.2335  0.484    0.3196
-## Turnover                    0.0015    -0.0055 -0.075   -0.0410
-## ReturnVolatility            0.0119     0.0649 -0.076    0.0493
-## DebtRatio                   0.0025     0.0208 -0.015    0.1246
-## MTB                         0.0105    -0.0275  0.100    0.0021
-## Aktienrendite               0.0115     0.0357 -0.044    0.0228
-## logAktienkurs               0.0530     0.0274  0.108   -0.0108
-##                         LogTotalAssets LogMarktkapitalisierung Turnover
-## AmihudMean                    0.051632                   0.053   0.0015
-## BidAskMean                   -0.230177                  -0.234  -0.0055
-## CSR                           0.560002                   0.484  -0.0753
-## Asset4CSR                     0.510526                   0.320  -0.0410
-## LogTotalAssets                1.000000                   0.879  -0.0497
-## LogMarktkapitalisierung       0.878850                   1.000  -0.1504
-## Turnover                     -0.049703                  -0.150   1.0000
-## ReturnVolatility             -0.054798                  -0.085  -0.0021
-## DebtRatio                    -0.000071                  -0.023  -0.0016
-## MTB                          -0.107086                   0.079   0.1207
-## Aktienrendite                 0.008447                   0.042  -0.0069
-## logAktienkurs                 0.355341                   0.405   0.0020
-##                         ReturnVolatility DebtRatio     MTB Aktienrendite
-## AmihudMean                       0.01187  0.002511  0.0105       0.01154
-## BidAskMean                       0.06489  0.020756 -0.0275       0.03566
-## CSR                             -0.07587 -0.014971  0.0996      -0.04418
-## Asset4CSR                        0.04931  0.124622  0.0021       0.02280
-## LogTotalAssets                  -0.05480 -0.000071 -0.1071       0.00845
-## LogMarktkapitalisierung         -0.08505 -0.022528  0.0790       0.04173
-## Turnover                        -0.00205 -0.001570  0.1207      -0.00688
-## ReturnVolatility                 1.00000  0.000242 -0.0330      -0.01627
-## DebtRatio                        0.00024  1.000000 -0.0272       0.00048
-## MTB                             -0.03298 -0.027207  1.0000       0.05569
-## Aktienrendite                   -0.01627  0.000478  0.0557       1.00000
-## logAktienkurs                    0.27925 -0.028891  0.0842       0.06112
-##                         logAktienkurs
-## AmihudMean                      0.053
-## BidAskMean                      0.027
-## CSR                             0.108
-## Asset4CSR                      -0.011
-## LogTotalAssets                  0.355
-## LogMarktkapitalisierung         0.405
-## Turnover                        0.002
-## ReturnVolatility                0.279
-## DebtRatio                      -0.029
-## MTB                             0.084
-## Aktienrendite                   0.061
-## logAktienkurs                   1.000</code></pre>
+<pre><code>##                         AmihudMean AmihudV2Mean BidAskMean    CSR
+## AmihudMean                  1.0000       1.0000     0.0012  0.096
+## AmihudV2Mean                1.0000       1.0000     0.0012  0.096
+## BidAskMean                  0.0012       0.0012     1.0000 -0.246
+## CSR                         0.0960       0.0960    -0.2457  1.000
+## Asset4CSR                  -0.0478      -0.0478    -0.0236  0.666
+## LogTotalAssets              0.0516       0.0516    -0.2302  0.560
+## LogMarktkapitalisierung     0.0532       0.0532    -0.2335  0.484
+## Turnover                    0.0015       0.0015    -0.0055 -0.075
+## ReturnVolatility            0.0119       0.0119     0.0649 -0.076
+## DebtRatio                   0.0025       0.0025     0.0208 -0.015
+## MTB                         0.0105       0.0105    -0.0275  0.100
+## Aktienrendite               0.0115       0.0115     0.0357 -0.044
+## logAktienkurs               0.0530       0.0530     0.0274  0.108
+##                         Asset4CSR LogTotalAssets LogMarktkapitalisierung
+## AmihudMean                -0.0478       0.051632                   0.053
+## AmihudV2Mean              -0.0478       0.051632                   0.053
+## BidAskMean                -0.0236      -0.230177                  -0.234
+## CSR                        0.6660       0.560002                   0.484
+## Asset4CSR                  1.0000       0.510526                   0.320
+## LogTotalAssets             0.5105       1.000000                   0.879
+## LogMarktkapitalisierung    0.3196       0.878850                   1.000
+## Turnover                  -0.0410      -0.049703                  -0.150
+## ReturnVolatility           0.0493      -0.054798                  -0.085
+## DebtRatio                  0.1246      -0.000071                  -0.023
+## MTB                        0.0021      -0.107086                   0.079
+## Aktienrendite              0.0228       0.008447                   0.042
+## logAktienkurs             -0.0108       0.355341                   0.405
+##                         Turnover ReturnVolatility DebtRatio     MTB
+## AmihudMean                0.0015          0.01187  0.002511  0.0105
+## AmihudV2Mean              0.0015          0.01187  0.002511  0.0105
+## BidAskMean               -0.0055          0.06489  0.020756 -0.0275
+## CSR                      -0.0753         -0.07587 -0.014971  0.0996
+## Asset4CSR                -0.0410          0.04931  0.124622  0.0021
+## LogTotalAssets           -0.0497         -0.05480 -0.000071 -0.1071
+## LogMarktkapitalisierung  -0.1504         -0.08505 -0.022528  0.0790
+## Turnover                  1.0000         -0.00205 -0.001570  0.1207
+## ReturnVolatility         -0.0021          1.00000  0.000242 -0.0330
+## DebtRatio                -0.0016          0.00024  1.000000 -0.0272
+## MTB                       0.1207         -0.03298 -0.027207  1.0000
+## Aktienrendite            -0.0069         -0.01627  0.000478  0.0557
+## logAktienkurs             0.0020          0.27925 -0.028891  0.0842
+##                         Aktienrendite logAktienkurs
+## AmihudMean                    0.01154         0.053
+## AmihudV2Mean                  0.01154         0.053
+## BidAskMean                    0.03566         0.027
+## CSR                          -0.04418         0.108
+## Asset4CSR                     0.02280        -0.011
+## LogTotalAssets                0.00845         0.355
+## LogMarktkapitalisierung       0.04173         0.405
+## Turnover                     -0.00688         0.002
+## ReturnVolatility             -0.01627         0.279
+## DebtRatio                     0.00048        -0.029
+## MTB                           0.05569         0.084
+## Aktienrendite                 1.00000         0.061
+## logAktienkurs                 0.06112         1.000</code></pre>
 <pre><code>## The p-Values:</code></pre>
-<pre><code>##                         AmihudMean BidAskMean     CSR Asset4CSR
-## AmihudMean                      NA      0.965 0.00111   0.20195
-## BidAskMean                  0.9646         NA 0.00000   0.52922
-## CSR                         0.0011      0.000      NA   0.00000
-## Asset4CSR                   0.2019      0.529 0.00000        NA
-## LogTotalAssets              0.0485      0.000 0.00000   0.00000
-## LogMarktkapitalisierung     0.0426      0.000 0.00000   0.00000
-## Turnover                    0.9558      0.835 0.01087   0.27312
-## ReturnVolatility            0.6541      0.014 0.00907   0.19672
-## DebtRatio                   0.9237      0.428 0.60288   0.00075
-## MTB                         0.6935      0.302 0.00086   0.95688
-## Aktienrendite               0.6672      0.184 0.14111   0.54709
-## logAktienkurs               0.0430      0.295 0.00021   0.77290
-##                         LogTotalAssets LogMarktkapitalisierung
-## AmihudMean                    0.048477            0.0425663126
-## BidAskMean                    0.000000            0.0000000000
-## CSR                           0.000000            0.0000000000
-## Asset4CSR                     0.000000            0.0000000000
-## LogTotalAssets                      NA            0.0000000000
-## LogMarktkapitalisierung       0.000000                      NA
-## Turnover                      0.052309            0.0000000039
-## ReturnVolatility              0.037006            0.0012403787
-## DebtRatio                     0.997666            0.3749698265
-## MTB                           0.000034            0.0023165376
-## Aktienrendite                 0.747073            0.1114500580
-## logAktienkurs                 0.000000            0.0000000000
+<pre><code>##                         AmihudMean AmihudV2Mean BidAskMean     CSR
+## AmihudMean                      NA       0.0000      0.965 0.00111
+## AmihudV2Mean                0.0000           NA      0.965 0.00111
+## BidAskMean                  0.9646       0.9646         NA 0.00000
+## CSR                         0.0011       0.0011      0.000      NA
+## Asset4CSR                   0.2019       0.2019      0.529 0.00000
+## LogTotalAssets              0.0485       0.0485      0.000 0.00000
+## LogMarktkapitalisierung     0.0426       0.0426      0.000 0.00000
+## Turnover                    0.9558       0.9558      0.835 0.01087
+## ReturnVolatility            0.6541       0.6541      0.014 0.00907
+## DebtRatio                   0.9237       0.9237      0.428 0.60288
+## MTB                         0.6935       0.6935      0.302 0.00086
+## Aktienrendite               0.6672       0.6672      0.184 0.14111
+## logAktienkurs               0.0430       0.0430      0.295 0.00021
+##                         Asset4CSR LogTotalAssets LogMarktkapitalisierung
+## AmihudMean                0.20195       0.048477            0.0425663126
+## AmihudV2Mean              0.20195       0.048477            0.0425663126
+## BidAskMean                0.52922       0.000000            0.0000000000
+## CSR                       0.00000       0.000000            0.0000000000
+## Asset4CSR                      NA       0.000000            0.0000000000
+## LogTotalAssets            0.00000             NA            0.0000000000
+## LogMarktkapitalisierung   0.00000       0.000000                      NA
+## Turnover                  0.27312       0.052309            0.0000000039
+## ReturnVolatility          0.19672       0.037006            0.0012403787
+## DebtRatio                 0.00075       0.997666            0.3749698265
+## MTB                       0.95688       0.000034            0.0023165376
+## Aktienrendite             0.54709       0.747073            0.1114500580
+## logAktienkurs             0.77290       0.000000            0.0000000000
 ##                             Turnover ReturnVolatility DebtRatio      MTB
 ## AmihudMean              0.9557776375           0.6541   0.92367 0.693466
+## AmihudV2Mean            0.9557776375           0.6541   0.92367 0.693466
 ## BidAskMean              0.8348153708           0.0143   0.42839 0.302461
 ## CSR                     0.0108687850           0.0091   0.60288 0.000860
 ## Asset4CSR               0.2731189899           0.1967   0.00075 0.956880
@@ -327,6 +349,7 @@ MathJax.Hub.Config({
 ## logAktienkurs           0.9365882767           0.0000   0.25890 0.001123
 ##                         Aktienrendite logAktienkurs
 ## AmihudMean                      0.667       0.04300
+## AmihudV2Mean                    0.667       0.04300
 ## BidAskMean                      0.184       0.29482
 ## CSR                             0.141       0.00021
 ## Asset4CSR                       0.547       0.77290
@@ -339,21 +362,23 @@ MathJax.Hub.Config({
 ## Aktienrendite                      NA       0.01940
 ## logAktienkurs                   0.019            NA</code></pre>
 <pre><code>## The pairwise number of observations:</code></pre>
-<pre><code>##                         AmihudMean BidAskMean  CSR Asset4CSR
-## AmihudMean                    1481       1481 1151       713
-## BidAskMean                    1481       1481 1151       713
-## CSR                           1151       1151 1252       626
-## Asset4CSR                      713        713  626       730
-## LogTotalAssets                1461       1461 1213       728
-## LogMarktkapitalisierung       1455       1455 1161       724
-## Turnover                      1439       1439 1144       715
-## ReturnVolatility              1426       1426 1182       687
-## DebtRatio                     1458       1458 1210       728
-## MTB                           1410       1410 1117       692
-## Aktienrendite                 1390       1390 1111       700
-## logAktienkurs                 1459       1459 1165       717
+<pre><code>##                         AmihudMean AmihudV2Mean BidAskMean  CSR Asset4CSR
+## AmihudMean                    1481         1481       1481 1151       713
+## AmihudV2Mean                  1481         1481       1481 1151       713
+## BidAskMean                    1481         1481       1481 1151       713
+## CSR                           1151         1151       1151 1252       626
+## Asset4CSR                      713          713        713  626       730
+## LogTotalAssets                1461         1461       1461 1213       728
+## LogMarktkapitalisierung       1455         1455       1455 1161       724
+## Turnover                      1439         1439       1439 1144       715
+## ReturnVolatility              1426         1426       1426 1182       687
+## DebtRatio                     1458         1458       1458 1210       728
+## MTB                           1410         1410       1410 1117       692
+## Aktienrendite                 1390         1390       1390 1111       700
+## logAktienkurs                 1459         1459       1459 1165       717
 ##                         LogTotalAssets LogMarktkapitalisierung Turnover
 ## AmihudMean                        1461                    1455     1439
+## AmihudV2Mean                      1461                    1455     1439
 ## BidAskMean                        1461                    1455     1439
 ## CSR                               1213                    1161     1144
 ## Asset4CSR                          728                     724      715
@@ -367,6 +392,7 @@ MathJax.Hub.Config({
 ## logAktienkurs                     1532                    1523     1525
 ##                         ReturnVolatility DebtRatio  MTB Aktienrendite
 ## AmihudMean                          1426      1458 1410          1390
+## AmihudV2Mean                        1426      1458 1410          1390
 ## BidAskMean                          1426      1458 1410          1390
 ## CSR                                 1182      1210 1117          1111
 ## Asset4CSR                            687       728  692           700
@@ -380,6 +406,7 @@ MathJax.Hub.Config({
 ## logAktienkurs                       1457      1529 1495          1463
 ##                         logAktienkurs
 ## AmihudMean                       1459
+## AmihudV2Mean                     1459
 ## BidAskMean                       1459
 ## CSR                              1165
 ## Asset4CSR                         717
