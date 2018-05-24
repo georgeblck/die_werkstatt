@@ -31,7 +31,7 @@ copyright = "(c) Nikolai Huckle"
     #brand = "Statistik Werkstatt Leipzig"#"<i class='fa fa-heart'></i> & statistics"
     brand = "![](/sw_logo_text_small.png)"
     topline = "Georg-Schwarz-Straße 138 <br> 04179 Leipzig"
-    footline = "Created with [Hugo](http://gohugo.io), the [Hyde-Y](https://github.com/enten/hyde-y) theme and [blogdown](https://github.com/rstudio/blogdown)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](http://www.statistikwerkstatt.org/imprint)"
+    footline = "Created with [Hugo](http://gohugo.io), the [Hyde-Y](https://github.com/enten/hyde-y) theme and [blogdown](https://github.com/rstudio/blogdown)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](http://www.statistikwerkstatt.org/imprint) & [Privacy Policy](http://www.statistikwerkstatt.org/privacy)"
 
     # Used when a given page doesn't set its own.
     defaultDescription = "Your default page description"
