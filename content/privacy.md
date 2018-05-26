@@ -6,7 +6,7 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ### Verantwortlicher
 
-Johannes Huckle<br/>
+Nikolai Huckle<br/>
 Georg-Schwarz-Straße 138<br/>
 04179 Leipzig<br/>
 E-Mailadresse: statistikwerkstatt@posteo.de<br/>
