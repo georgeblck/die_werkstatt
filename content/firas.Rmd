@@ -34,6 +34,7 @@ descr.data <- as.data.frame(total.annual[, c("AmihudMean", "AmihudV2Mean", "BidA
     "Turnover", "ReturnVolatility", "DebtRatio", "MTB", "Aktienrendite", "logAktienkurs")])
 descr.data$AmihudMean <- descr.data$AmihudMean * 10^6
 descr.data$AmihudV2Mean <- descr.data$AmihudV2Mean * 10^6
+descr.data$BidAskMean <- descr.data$BidAskMean * 100
 stat.desc(descr.data)
 
 ```
