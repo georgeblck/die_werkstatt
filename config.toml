@@ -1,5 +1,5 @@
-theme = "hyde-y"
-baseurl = "http://statistikwerkstatt.org"
+theme = "hyde-y2"
+baseurl = "https://georgeblck.github.io/"
 languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -50,7 +50,7 @@ copyright = "(c) Nikolai Huckle"
     highlight = "default"
 
     # Sidebar social links.
-    #github = "georgeblck" # Your Github profile ID
+    github = "georgeblck" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
